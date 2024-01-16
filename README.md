@@ -6,3 +6,7 @@ Find duplicate rows in a binary matrix
 
 **Day 2(15 JAN) :**
 Grinding Geek
+
+**Day 3(16 JAN) :**
+Sequence of Sequence
+
