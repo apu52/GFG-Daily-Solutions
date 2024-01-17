@@ -10,3 +10,6 @@ Grinding Geek
 **Day 3(16 JAN) :**
 Sequence of Sequence
 
+**Day 4(17 JAN) :**
+All Unique Permutations of an array
+
