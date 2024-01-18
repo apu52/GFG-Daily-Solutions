@@ -13,3 +13,6 @@ Sequence of Sequence
 **Day 4(17 JAN) :**
 All Unique Permutations of an array
 
+**Day 5(18 JAN) :**
+Water the plants
+
