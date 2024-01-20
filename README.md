@@ -19,3 +19,6 @@ Water the plants
 **Day 6(19 JAN) :**
 Top k numbers in a stream
 
+**Day 7(20 JAN) :**
+Distribute candies in a binary tree
+
