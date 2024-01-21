@@ -22,3 +22,5 @@ Top k numbers in a stream
 **Day 7(20 JAN) :**
 Distribute candies in a binary tree
 
+**Day 8(21 JAN) :**
+Vertex Cover
