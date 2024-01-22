@@ -24,3 +24,6 @@ Distribute candies in a binary tree
 
 **Day 8(21 JAN) :**
 Vertex Cover
+
+**Day 9(22 JAN) :**
+Paths from root with a specified sum
