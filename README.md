@@ -30,3 +30,6 @@ Paths from root with a specified sum
 
 **Day 10(23 JAN) :**
 Course Schedule
+
+**Day 11(24 JAN) :**
+Check if a given graph is tree or not
