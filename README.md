@@ -33,3 +33,6 @@ Course Schedule
 
 **Day 11(24 JAN) :**
 Check if a given graph is tree or not
+
+**Day 12(25 JAN) :**
+Shortest Prime Path
