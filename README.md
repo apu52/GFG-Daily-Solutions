@@ -39,3 +39,6 @@ Shortest Prime Path
 
 **Day 13(26 JAN) :**
 Fractional Knapsack
+
+**Day 14(27 JAN) :**
+Brackets in Matrix Chain Multiplication
