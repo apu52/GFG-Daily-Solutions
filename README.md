@@ -42,3 +42,6 @@ Fractional Knapsack
 
 **Day 14(27 JAN) :**
 Brackets in Matrix Chain Multiplication
+
+**Day 15(28 JAN) :**
+Geekina Hate 1s
