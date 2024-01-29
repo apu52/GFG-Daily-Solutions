@@ -45,3 +45,6 @@ Brackets in Matrix Chain Multiplication
 
 **Day 15(28 JAN) :**
 Geekina Hate 1s
+
+**Day 16(29 JAN) :**
+Count digit groupings of a number
