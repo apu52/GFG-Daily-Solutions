@@ -48,3 +48,6 @@ Geekina Hate 1s
 
 **Day 16(29 JAN) :**
 Count digit groupings of a number
+
+**Day 17(30 JAN) :**
+LCS of three strings
