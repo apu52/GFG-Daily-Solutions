@@ -51,3 +51,7 @@ Count digit groupings of a number
 
 **Day 17(30 JAN) :**
 LCS of three strings
+
+**Day 18(31 JAN) :**
+Insert and Search in a Trie
+
