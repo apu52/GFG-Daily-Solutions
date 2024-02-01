@@ -55,3 +55,5 @@ LCS of three strings
 **Day 18(31 JAN) :**
 Insert and Search in a Trie
 
+**Day 19(1 FEB) :**
+Panagram Checking
