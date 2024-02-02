@@ -57,3 +57,6 @@ Insert and Search in a Trie
 
 **Day 19(1 FEB) :**
 Panagram Checking
+
+**Day 20(2 FEB) :**
+Implement Atoi
