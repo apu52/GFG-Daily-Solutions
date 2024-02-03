@@ -60,3 +60,5 @@ Panagram Checking
 
 **Day 20(2 FEB) :**
 Implement Atoi
+
+**Day 21(3 FEB) :** Decimal Equivalent of Binary Linked List
