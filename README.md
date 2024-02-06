@@ -66,3 +66,5 @@ Implement Atoi
 **Day 22(4 FEB) :** Subtraction in Linked List
 
 **Day 23(5 FEB) :** Sorted insert for circular linked list
+
+**Day 24(6 FEB) :** Node at distance
