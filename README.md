@@ -68,3 +68,6 @@ Implement Atoi
 **Day 23(5 FEB) :** Sorted insert for circular linked list
 
 **Day 24(6 FEB) :** Node at distance
+
+**Day 25(7 FEB) :** Min distance between two given nodes of a Binary Tree
+
