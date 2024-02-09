@@ -72,3 +72,5 @@ Implement Atoi
 **Day 25(7 FEB) :** Min distance between two given nodes of a Binary Tree
 
 **Day 26(8 FEB) :** Check if all leaves are at same level
+
+**Day 27(9 FEB) :** Check for Children Sum Property in a Binary Tree
