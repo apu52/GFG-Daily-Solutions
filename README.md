@@ -74,3 +74,5 @@ Implement Atoi
 **Day 26(8 FEB) :** Check if all leaves are at same level
 
 **Day 27(9 FEB) :** Check for Children Sum Property in a Binary Tree
+
+**Day 28(10 FEB) :** Number of paths in a matrix with k coins
