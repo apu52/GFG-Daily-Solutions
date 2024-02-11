@@ -76,3 +76,5 @@ Implement Atoi
 **Day 27(9 FEB) :** Check for Children Sum Property in a Binary Tree
 
 **Day 28(10 FEB) :** Number of paths in a matrix with k coins
+
+**Day 29(11 FEB) :** Recamans sequence
