@@ -78,3 +78,5 @@ Implement Atoi
 **Day 28(10 FEB) :** Number of paths in a matrix with k coins
 
 **Day 29(11 FEB) :** Recamans sequence
+
+**Day 30(12 FEB) :** Recursive sequence
