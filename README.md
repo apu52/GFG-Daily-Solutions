@@ -96,3 +96,5 @@ Implement Atoi
 **Day 37(19 FEB) :** Game with String
 
 **Day 38(20 FEB) :** Word Break
+
+**Day 39(21 FEB) :** Boolean Parenthesization
