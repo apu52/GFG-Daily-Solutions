@@ -98,3 +98,6 @@ Implement Atoi
 **Day 38(20 FEB) :** Word Break
 
 **Day 39(21 FEB) :** Boolean Parenthesization
+
+**Day 40(22 FEB) :** Distinct occurrences
+
