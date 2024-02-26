@@ -106,3 +106,5 @@ Implement Atoi
 **Day 42(24 FEB) :** Maximum Sum Problem
 
 **Day 43(25 FEB) :** Reach a given score
+
+**Day 44(26 FEB) :** Power Set
