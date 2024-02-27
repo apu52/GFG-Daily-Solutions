@@ -108,3 +108,5 @@ Implement Atoi
 **Day 43(25 FEB) :** Reach a given score
 
 **Day 44(26 FEB) :** Power Set
+
+**Day 45(27 FEB) :** Play With OR
