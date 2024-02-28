@@ -110,3 +110,6 @@ Implement Atoi
 **Day 44(26 FEB) :** Power Set
 
 **Day 45(27 FEB) :** Play With OR
+
+**Day 46(28 FEB) :** Check if a number is divisible by 8
+
