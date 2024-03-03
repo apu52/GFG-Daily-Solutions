@@ -114,3 +114,5 @@ Implement Atoi
 **Day 46(28 FEB) :** Check if a number is divisible by 8
 
 **Day 47(29 FEB) :** Sum of bit differences
+
+**Day 48(03 MAR) :** Largest Number formed from an Array
