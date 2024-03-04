@@ -116,3 +116,5 @@ Implement Atoi
 **Day 47(29 FEB) :** Sum of bit differences
 
 **Day 48(03 MAR) :** Largest Number formed from an Array
+
+**Day 49(04 MAR) :** Swap the array elements
