@@ -118,3 +118,5 @@ Implement Atoi
 **Day 48(03 MAR) :** Largest Number formed from an Array
 
 **Day 49(04 MAR) :** Swap the array elements
+
+**Day 50(05 MAR) :** Maximum Index
