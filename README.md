@@ -120,3 +120,5 @@ Implement Atoi
 **Day 49(04 MAR) :** Swap the array elements
 
 **Day 50(05 MAR) :** Maximum Index
+
+**Day 51(06 MAR) :** Search Pattern (Rabin-Karp Algorithm)
