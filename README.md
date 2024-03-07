@@ -122,3 +122,5 @@ Implement Atoi
 **Day 50(05 MAR) :** Maximum Index
 
 **Day 51(06 MAR) :** Search Pattern (Rabin-Karp Algorithm)
+
+**Day 52(07 MAR) :** Longest repeating and non-overlapping substring
