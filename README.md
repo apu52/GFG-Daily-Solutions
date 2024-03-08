@@ -124,3 +124,6 @@ Implement Atoi
 **Day 51(06 MAR) :** Search Pattern (Rabin-Karp Algorithm)
 
 **Day 52(07 MAR) :** Longest repeating and non-overlapping substring
+
+**Day 53(08 MAR) :** Check if frequencies can be equal
+
