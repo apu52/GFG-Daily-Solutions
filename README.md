@@ -127,3 +127,4 @@ Implement Atoi
 
 **Day 53(08 MAR) :** Check if frequencies can be equal
 
+**Day 54(09 MAR) :** Find the N-th character
