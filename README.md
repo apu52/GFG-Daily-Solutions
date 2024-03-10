@@ -129,4 +129,4 @@ Implement Atoi
 
 **Day 54(09 MAR) :** Find the N-th character
 
-**Day 54(09 MAR) :** Remove all duplicates from a given string
+**Day 55(10 MAR) :** Remove all duplicates from a given string
