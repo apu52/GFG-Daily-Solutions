@@ -130,3 +130,6 @@ Implement Atoi
 **Day 54(09 MAR) :** Find the N-th character
 
 **Day 55(10 MAR) :** Remove all duplicates from a given string
+
+**Day 56(11 MAR) :** Count pairs Sum in matrices
+
