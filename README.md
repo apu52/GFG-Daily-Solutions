@@ -134,3 +134,5 @@ Implement Atoi
 **Day 56(11 MAR) :** Count pairs Sum in matrices
 
 **Day 57(12 MAR) :** Generalised Fibonacci numbers
+
+**Day 58(13 MAR) :** Print matrix in diagonal pattern
