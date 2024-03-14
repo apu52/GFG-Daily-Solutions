@@ -136,3 +136,5 @@ Implement Atoi
 **Day 57(12 MAR) :** Generalised Fibonacci numbers
 
 **Day 58(13 MAR) :** Print matrix in diagonal pattern
+
+**Day 59(14 MAR) :** Largest subsquare surrounded by X
