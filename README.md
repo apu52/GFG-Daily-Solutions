@@ -138,3 +138,5 @@ Implement Atoi
 **Day 58(13 MAR) :** Print matrix in diagonal pattern
 
 **Day 59(14 MAR) :** Largest subsquare surrounded by X
+
+**Day 60(15 MAR) :** Linked List that is Sorted Alternatingly
