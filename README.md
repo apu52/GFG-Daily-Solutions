@@ -141,4 +141,4 @@ Implement Atoi
 
 **Day 60(15 MAR) :** Linked List that is Sorted Alternatingly
 
-**Day 60(15 MAR) :** Delete without head pointer
+**Day 61(16 MAR) :** Delete without head pointer
