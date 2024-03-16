@@ -140,3 +140,5 @@ Implement Atoi
 **Day 59(14 MAR) :** Largest subsquare surrounded by X
 
 **Day 60(15 MAR) :** Linked List that is Sorted Alternatingly
+
+**Day 60(15 MAR) :** Delete without head pointer
