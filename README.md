@@ -142,3 +142,5 @@ Implement Atoi
 **Day 60(15 MAR) :** Linked List that is Sorted Alternatingly
 
 **Day 61(16 MAR) :** Delete without head pointer
+
+**Day 62(17 MAR) :** Count Pairs whose sum is equal to X
