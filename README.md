@@ -156,3 +156,5 @@ Implement Atoi
 **Day 67(22 MAR) :** Diagonal sum in binary tree
 
 **Day 68(23 MAR) :** Fibonacci series up to Nth term
+
+**Day 69(24 MAR) :** Insert an Element at the Bottom of a Stack
