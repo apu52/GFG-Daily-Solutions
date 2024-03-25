@@ -158,3 +158,5 @@ Implement Atoi
 **Day 68(23 MAR) :** Fibonacci series up to Nth term
 
 **Day 69(24 MAR) :** Insert an Element at the Bottom of a Stack
+
+**Day 70(25 MAR) :** Print N-bit binary numbers having more 1s than 0s
