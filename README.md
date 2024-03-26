@@ -160,3 +160,6 @@ Implement Atoi
 **Day 69(24 MAR) :** Insert an Element at the Bottom of a Stack
 
 **Day 70(25 MAR) :** Print N-bit binary numbers having more 1s than 0s
+
+**Day 71(26 MAR) :** Additive sequence
+
