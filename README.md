@@ -163,3 +163,4 @@ Implement Atoi
 
 **Day 71(26 MAR) :** Additive sequence
 
+**Day 72(27 MAR) :** Find shortest safe route in a matrix
