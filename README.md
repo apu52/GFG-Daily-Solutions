@@ -164,3 +164,5 @@ Implement Atoi
 **Day 71(26 MAR) :** Additive sequence
 
 **Day 72(27 MAR) :** Find shortest safe route in a matrix
+
+**Day 73(28 MAR) :** City With the Smallest Number of Neighbors at a Threshold Distance
