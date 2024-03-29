@@ -166,3 +166,6 @@ Implement Atoi
 **Day 72(27 MAR) :** Find shortest safe route in a matrix
 
 **Day 73(28 MAR) :** City With the Smallest Number of Neighbors at a Threshold Distance
+
+**Day 74(29 MAR) :** Euler Circuit in an Undirected Graph
+
