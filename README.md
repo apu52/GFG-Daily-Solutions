@@ -169,3 +169,4 @@ Implement Atoi
 
 **Day 74(29 MAR) :** Euler Circuit in an Undirected Graph
 
+**Day 75(30 MAR) :** Minimum element in BST
