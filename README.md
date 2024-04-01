@@ -172,3 +172,5 @@ Implement Atoi
 **Day 75(30 MAR) :** Minimum element in BST
 
 **Day 76(31 MAR) :** Closest Neighbour in BST
+
+**Day 77(32 MAR) :** Pairs violating the BST property
