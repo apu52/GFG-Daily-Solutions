@@ -173,4 +173,4 @@ Implement Atoi
 
 **Day 76(31 MAR) :** Closest Neighbour in BST
 
-**Day 77(32 MAR) :** Pairs violating the BST property
+**Day 77(1 APR) :** Pairs violating the BST property
