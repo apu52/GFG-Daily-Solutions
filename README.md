@@ -178,3 +178,5 @@ Implement Atoi
 **Day 78(2 APR) :** Minimum Absolute Difference In BST
 
 **Day 79(3 APR) :** Kth common ancestor in BST
+
+**Day 80(4 APR) :** Sum of all substrings of a number
