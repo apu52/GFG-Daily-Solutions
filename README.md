@@ -180,3 +180,5 @@ Implement Atoi
 **Day 79(3 APR) :** Kth common ancestor in BST
 
 **Day 80(4 APR) :** Sum of all substrings of a number
+
+**Day 81(5 APR) :** Strictly Increasing Array
