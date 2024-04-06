@@ -182,3 +182,5 @@ Implement Atoi
 **Day 80(4 APR) :** Sum of all substrings of a number
 
 **Day 81(5 APR) :** Strictly Increasing Array
+
+**Day 82(6 APR) :** Count ways to N'th Stair
