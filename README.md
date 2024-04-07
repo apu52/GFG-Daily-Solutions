@@ -184,3 +184,5 @@ Implement Atoi
 **Day 81(5 APR) :** Strictly Increasing Array
 
 **Day 82(6 APR) :** Count ways to N'th Stair
+
+**Day 83(7 APR) :** Maximize dot product
