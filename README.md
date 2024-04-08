@@ -186,3 +186,5 @@ Implement Atoi
 **Day 82(6 APR) :** Count ways to N'th Stair
 
 **Day 83(7 APR) :** Maximize dot product
+
+**Day 84(8 APR) :** Optimal Strategy For A Game
