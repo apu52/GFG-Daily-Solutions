@@ -188,3 +188,5 @@ Implement Atoi
 **Day 83(7 APR) :** Maximize dot product
 
 **Day 84(8 APR) :** Optimal Strategy For A Game
+
+**Day 85(9 APR) :** Minimum Points To Reach Destination
