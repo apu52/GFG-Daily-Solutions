@@ -192,3 +192,5 @@ Implement Atoi
 **Day 85(9 APR) :** Minimum Points To Reach Destination
 
 **Day 86(10 APR) :** Party of Couples
+
+**Day 87(11 APR) :** Gray to Binary equivalent
