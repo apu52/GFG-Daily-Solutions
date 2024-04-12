@@ -194,3 +194,5 @@ Implement Atoi
 **Day 86(10 APR) :** Party of Couples
 
 **Day 87(11 APR) :** Gray to Binary equivalent
+
+**Day 88(12 APR) :** Sum of Products
