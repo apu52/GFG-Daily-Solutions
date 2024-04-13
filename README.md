@@ -196,3 +196,5 @@ Implement Atoi
 **Day 87(11 APR) :** Gray to Binary equivalent
 
 **Day 88(12 APR) :** Sum of Products
+
+**Day 89(13 APR) :** Reverse Bits
