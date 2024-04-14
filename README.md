@@ -198,3 +198,5 @@ Implement Atoi
 **Day 88(12 APR) :** Sum of Products
 
 **Day 89(13 APR) :** Reverse Bits
+
+**Day 90(14 APR) :** Xoring and Clearing
