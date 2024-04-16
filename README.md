@@ -202,3 +202,5 @@ Implement Atoi
 **Day 90(14 APR) :** Xoring and Clearing
 
 **Day 91(15 APR) :** Count the elements
+
+**Day 92(16 APR) :** Minimize the Difference
