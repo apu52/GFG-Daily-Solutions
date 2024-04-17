@@ -206,3 +206,5 @@ Implement Atoi
 **Day 92(16 APR) :** Minimize the Difference
 
 **Day 93(17 APR) :** Count Pairs in an Array
+
+**Day 94(18 APR) :** Smallest String Starting From Leaf
