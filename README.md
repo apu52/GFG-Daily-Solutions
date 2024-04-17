@@ -204,3 +204,5 @@ Implement Atoi
 **Day 91(15 APR) :** Count the elements
 
 **Day 92(16 APR) :** Minimize the Difference
+
+**Day 93(17 APR) :** Count Pairs in an Array
