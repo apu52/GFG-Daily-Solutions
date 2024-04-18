@@ -208,3 +208,5 @@ Implement Atoi
 **Day 93(17 APR) :** Count Pairs in an Array
 
 **Day 94(18 APR) :** Smallest String Starting From Leaf
+
+**Day 95(19 APR) :** Two Repeated Elements
