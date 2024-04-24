@@ -218,3 +218,5 @@ Implement Atoi
 **Day 98(22 APR) :** Row with minimum number of 1's
 
 **Day 99(23 APR) :** Rohan's Love for Matrix
+
+**Day 100(24 APR) :** Paths to reach origin
