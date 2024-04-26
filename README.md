@@ -222,3 +222,5 @@ Implement Atoi
 **Day 100(24 APR) :** Paths to reach origin
 
 **Day 101(25 APR) :** Maximum sum of hour glass
+
+**Day 102(26 APR) :** Exit Point in a Matrix
