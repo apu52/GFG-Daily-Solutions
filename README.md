@@ -226,3 +226,5 @@ Implement Atoi
 **Day 102(26 APR) :** Exit Point in a Matrix
 
 **Day 103(27 APR) :** Merge Sort on Doubly Linked List
+
+**Day 104(28 APR) :** Delete Middle of Linked List
