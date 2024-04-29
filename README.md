@@ -228,3 +228,5 @@ Implement Atoi
 **Day 103(27 APR) :** Merge Sort on Doubly Linked List
 
 **Day 104(28 APR) :** Delete Middle of Linked List
+
+**Day 105(29 APR) :** Remove every kth node
