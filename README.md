@@ -256,3 +256,5 @@ Implement Atoi
 **Day 117(11 MAY) :** Juggler Sequence
 
 **Day 118(12 MAY) :** Minimum steps to destination
+
+**Day 119(13 MAY) :** Number of Good Components
