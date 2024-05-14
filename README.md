@@ -258,3 +258,5 @@ Implement Atoi
 **Day 118(12 MAY) :** Minimum steps to destination
 
 **Day 119(13 MAY) :** Number of Good Components
+
+**Day 120(14 MAY) :** Path With Minimum Effort
