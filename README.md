@@ -264,3 +264,5 @@ Implement Atoi
 **Day 121(15 MAY) :** Account Merge
 
 **Day 122(16 MAY) :** Divisibility tree
+
+**Day 123(17 MAY) :** Find Pair Given Difference
