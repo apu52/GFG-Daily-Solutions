@@ -266,3 +266,5 @@ Implement Atoi
 **Day 122(16 MAY) :** Divisibility tree
 
 **Day 123(17 MAY) :** Find Pair Given Difference
+
+**Day 124(18 MAY) :** Find the Highest number
