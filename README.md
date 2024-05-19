@@ -268,3 +268,6 @@ Implement Atoi
 **Day 123(17 MAY) :** Find Pair Given Difference
 
 **Day 124(18 MAY) :** Find the Highest number
+
+**Day 125(19 MAY) :** Find the closest number
+
