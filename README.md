@@ -278,3 +278,6 @@ Implement Atoi
 **Day 128(22 MAY) :** Minimize Max Distance to Gas Station
 
 **Day 129(23 MAY) :** K-Palindrome
+
+**Day 130(24 MAY) :** Partitions with Given Difference
+
