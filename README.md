@@ -284,3 +284,6 @@ Implement Atoi
 **Day 131(25 MAY) :** You and your books
 
 **Day 132(26 MAY) :** Minimum Cost To Make Two Strings Identical
+
+**Day 133(27 MAY) :** Longest subsequence-1
+
