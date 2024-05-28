@@ -287,3 +287,4 @@ Implement Atoi
 
 **Day 133(27 MAY) :** Longest subsequence-1
 
+**Day 134(28 MAY) :** Minimum cost to fill given weight in a bag
