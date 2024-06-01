@@ -294,3 +294,5 @@ Implement Atoi
 **Day 136(30 MAY) :** String Subsequence
 
 **Day 137(31 MAY) :** Swap two nibbles in a byte
+
+**Day 138(1 JUN) :** Odd Even Problem
