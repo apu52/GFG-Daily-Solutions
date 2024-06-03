@@ -298,3 +298,5 @@ Implement Atoi
 **Day 138(1 JUN) :** Odd Even Problem
 
 **Day 139(2 JUN) :** Construct list using given q XOR queries
+
+**Day 140(3 JUN) :** Trail of ones
