@@ -300,3 +300,5 @@ Implement Atoi
 **Day 139(2 JUN) :** Construct list using given q XOR queries
 
 **Day 140(3 JUN) :** Trail of ones
+
+**Day 141(4 JUN) :** Binary representation of next number
