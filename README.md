@@ -302,3 +302,6 @@ Implement Atoi
 **Day 140(3 JUN) :** Trail of ones
 
 **Day 141(4 JUN) :** Binary representation of next number
+
+**Day 142(5 JUN) :** Swapping pairs make sum equal
+
