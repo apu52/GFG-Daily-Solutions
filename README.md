@@ -306,3 +306,5 @@ Implement Atoi
 **Day 142(5 JUN) :** Swapping pairs make sum equal
 
 **Day 143(6 JUN) :** Max sum in the configuration
+
+**Day 144(7 JUN) :** Maximum occured integer
