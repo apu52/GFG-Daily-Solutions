@@ -308,3 +308,6 @@ Implement Atoi
 **Day 143(6 JUN) :** Max sum in the configuration
 
 **Day 144(7 JUN) :** Maximum occured integer
+
+**Day 145(8 JUN) :** Index of an Extra Element
+
