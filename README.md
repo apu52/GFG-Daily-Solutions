@@ -311,3 +311,4 @@ Implement Atoi
 
 **Day 145(8 JUN) :** Index of an Extra Element
 
+**Day 146(9 JUN) :** Convert array into Zig-Zag fashion
