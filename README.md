@@ -316,3 +316,6 @@ Implement Atoi
 **Day 147(10 JUN) :** Nuts and Bolts Problem
 
 **Day 148(11 JUN) :** Maximum Tip Calculator
+
+**Day 149(12 JUN) :** Count numbers containing 4
+
