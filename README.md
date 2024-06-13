@@ -306,3 +306,17 @@ Implement Atoi
 **Day 142(5 JUN) :** Swapping pairs make sum equal
 
 **Day 143(6 JUN) :** Max sum in the configuration
+
+**Day 144(7 JUN) :** Maximum occured integer
+
+**Day 145(8 JUN) :** Index of an Extra Element
+
+**Day 146(9 JUN) :** Convert array into Zig-Zag fashion
+
+**Day 147(10 JUN) :** Nuts and Bolts Problem
+
+**Day 148(11 JUN) :** Maximum Tip Calculator
+
+**Day 149(12 JUN) :** Count numbers containing 4
+
+**Day 150(13 JUN) :** Padovan Sequence
