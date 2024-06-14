@@ -320,3 +320,5 @@ Implement Atoi
 **Day 149(12 JUN) :** Count numbers containing 4
 
 **Day 150(13 JUN) :** Padovan Sequence
+
+**Day 151(14 JUN) :** Armstrong Numbers
