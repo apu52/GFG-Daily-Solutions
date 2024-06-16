@@ -324,3 +324,5 @@ Implement Atoi
 **Day 151(14 JUN) :** Armstrong Numbers
 
 **Day 152(15 JUN) :** Mobile numeric keypad
+
+**Day 153(16 JUN) :** Prime Pair with Target Sum
