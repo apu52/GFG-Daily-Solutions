@@ -327,4 +327,4 @@ Implement Atoi
 
 **Day 153(16 JUN) :** Prime Pair with Target Sum
 
-**Day 154(17 JUN) :** Number of Rectangles in a Circle
+**Day 154(18 JUN) :** Number of Rectangles in a Circle
