@@ -326,3 +326,5 @@ Implement Atoi
 **Day 152(15 JUN) :** Mobile numeric keypad
 
 **Day 153(16 JUN) :** Prime Pair with Target Sum
+
+**Day 154(17 JUN) :** Number of Rectangles in a Circle
