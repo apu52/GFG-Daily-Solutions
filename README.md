@@ -332,3 +332,5 @@ Implement Atoi
 **Day 155(19 JUN) :** Find maximum volume of a cuboid
 
 **Day 156(20 JUN) :** Integral Points Inside Triangle
+
+**Day 157(21 JUN) :** Compare two fractions
