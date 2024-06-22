@@ -334,3 +334,6 @@ Implement Atoi
 **Day 156(20 JUN) :** Integral Points Inside Triangle
 
 **Day 157(21 JUN) :** Compare two fractions
+
+**Day 158(22 JUN) :** Extract the Number from the String
+
