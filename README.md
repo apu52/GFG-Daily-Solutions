@@ -337,3 +337,5 @@ Implement Atoi
 
 **Day 158(22 JUN) :** Extract the Number from the String
 
+**Day 159(23 JUN) :** Print Bracket Number
+
