@@ -339,3 +339,4 @@ Implement Atoi
 
 **Day 159(23 JUN) :** Print Bracket Number
 
+**Day 160(24 JUN) :** Summed Matrix
