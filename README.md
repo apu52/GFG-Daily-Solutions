@@ -342,3 +342,7 @@ Implement Atoi
 **Day 160(24 JUN) :** Summed Matrix
 
 **Day 161(25 JUN) :** Left Rotate Matrix K times
+
+**Day 162(26 JUN) :** Coverage of all Zeros in a Binary Matrix
+
+
