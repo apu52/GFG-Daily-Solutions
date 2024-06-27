@@ -345,4 +345,4 @@ Implement Atoi
 
 **Day 162(26 JUN) :** Coverage of all Zeros in a Binary Matrix
 
-
+**Day 163(27 JUN) :** Toeplitz matrix
