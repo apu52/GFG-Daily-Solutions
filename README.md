@@ -346,3 +346,5 @@ Implement Atoi
 **Day 162(26 JUN) :** Coverage of all Zeros in a Binary Matrix
 
 **Day 163(27 JUN) :** Toeplitz matrix
+
+**Day 164(28 JUN) :** The Palindrome Pattern
