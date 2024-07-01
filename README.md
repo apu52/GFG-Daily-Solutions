@@ -348,3 +348,6 @@ Implement Atoi
 **Day 163(27 JUN) :** Toeplitz matrix
 
 **Day 164(28 JUN) :** The Palindrome Pattern
+
+**Day 165(29 JUN) :** Make Binary Tree From Linked List
+
