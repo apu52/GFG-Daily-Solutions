@@ -351,3 +351,4 @@ Implement Atoi
 
 **Day 165(1 JUL) :** Make Binary Tree From Linked List
 
+**Day 166(2 JUL) :** Linked list of strings forms a palindrome
