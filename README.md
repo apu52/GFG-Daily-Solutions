@@ -352,3 +352,6 @@ Implement Atoi
 **Day 165(1 JUL) :** Make Binary Tree From Linked List
 
 **Day 166(2 JUL) :** Linked list of strings forms a palindrome
+
+**Day 167(3 JUL) :** Remove all occurences of duplicates in a linked list
+
