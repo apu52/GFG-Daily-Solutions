@@ -356,3 +356,5 @@ Implement Atoi
 **Day 167(3 JUL) :** Remove all occurences of duplicates in a linked list
 
 **Day 168(4 JUL) :** Duplicate Subtrees
+
+**Day 169(5 JUL) :** Vertical Width of a Binary Tree
