@@ -365,3 +365,4 @@ Implement Atoi
 
 **Day 172(13 JUL) :** Shortest Path in Weighted undirected graph
 
+**Day 173(14 JUL) :** Segregate 0s and 1s
