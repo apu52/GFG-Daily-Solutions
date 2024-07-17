@@ -370,3 +370,5 @@ Implement Atoi
 **Day 174(15 JUL) :** Smallest number
 
 **Day 175(16 JUL) :** Remaining String
+
+**Day 176(17 JUL) :** Construct Binary Tree from Parent Array
