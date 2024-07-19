@@ -374,3 +374,5 @@ Implement Atoi
 **Day 176(17 JUL) :** Construct Binary Tree from Parent Array
 
 **Day 177(18 JUL) :** Longest alternating subsequence
+
+**Day 178(19 JUL) :** Count Smaller elements
