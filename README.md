@@ -376,3 +376,5 @@ Implement Atoi
 **Day 177(18 JUL) :** Longest alternating subsequence
 
 **Day 178(19 JUL) :** Count Smaller elements
+
+**Day 179(20 JUL) :** Remove Half Nodes
