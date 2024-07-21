@@ -378,3 +378,5 @@ Implement Atoi
 **Day 178(19 JUL) :** Count Smaller elements
 
 **Day 179(20 JUL) :** Remove Half Nodes
+
+**Day 180(21 JUL) :** Maximum product subset of an array
