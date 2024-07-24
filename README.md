@@ -385,3 +385,5 @@ Implement Atoi
 
 **Day 182(23 JUL) :** Merge two BST 's
 
+**Day 183(24 JUL) :** Check for BST
+
