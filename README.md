@@ -390,3 +390,5 @@ Implement Atoi
 **Day 184(25 JUL) :** Array to BST
 
 **Day 185(26 JUL) :** K-Pangrams
+
+**Day 186(27 JUL) :** Form a palindrome
