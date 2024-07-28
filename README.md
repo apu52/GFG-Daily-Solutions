@@ -392,3 +392,5 @@ Implement Atoi
 **Day 185(26 JUL) :** K-Pangrams
 
 **Day 186(27 JUL) :** Form a palindrome
+
+**Day 187(28 JUL) :** Remove Duplicates
