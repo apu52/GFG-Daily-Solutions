@@ -394,3 +394,6 @@ Implement Atoi
 **Day 186(27 JUL) :** Form a palindrome
 
 **Day 187(28 JUL) :** Remove Duplicates
+
+**Day 188(29 JUL) :** Row with max 1s
+
