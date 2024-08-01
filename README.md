@@ -400,3 +400,6 @@ Implement Atoi
 **Day 189(30 JUL) :** Rat in a Maze Problem - I
 
 **Day 190(31 JUL) :** Longest Common Prefix of Strings
+
+**Day 191(1 AUG) :** Spirally traversing a matrix
+
