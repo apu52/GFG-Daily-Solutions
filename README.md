@@ -404,3 +404,5 @@ Implement Atoi
 **Day 191(1 AUG) :** Spirally traversing a matrix
 
 **Day 192(2 AUG) :** Edit Distance
+
+**Day 193(3 AUG) :** The Celebrity Problem
