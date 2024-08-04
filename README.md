@@ -406,3 +406,6 @@ Implement Atoi
 **Day 192(2 AUG) :** Edit Distance
 
 **Day 193(3 AUG) :** The Celebrity Problem
+
+**Day 194(4 AUG) :** N meetings in one room
+
