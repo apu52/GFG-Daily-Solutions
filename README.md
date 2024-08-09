@@ -417,3 +417,4 @@ Implement Atoi
 
 **Day 198(8 AUG) :** Sum Tree
 
+**Day 199(9 AUG) :** Maximize Array Value After Rearrangement
