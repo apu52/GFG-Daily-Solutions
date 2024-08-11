@@ -420,3 +420,6 @@ Implement Atoi
 **Day 199(9 AUG) :** Maximize Array Value After Rearrangement
 
 **Day 200(10 AUG) :** Rotate a Linked List
+
+**Day 201(11 AUG) :** Job Sequencing Problem
+
