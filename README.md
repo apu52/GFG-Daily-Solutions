@@ -424,3 +424,6 @@ Implement Atoi
 **Day 201(11 AUG) :** Job Sequencing Problem
 
 **Day 202(12 AUG) :** Sum of Middle elements of two sorted arrays
+
+**Day 203(13 AUG) :** Square root of a number
+
