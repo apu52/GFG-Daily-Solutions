@@ -430,3 +430,6 @@ Implement Atoi
 **Day 204(14 AUG) :** Longest Common Substring
 
 **Day 205(15 AUG) :** Add 1 to a Linked List Number
+
+**Day 206(16 AUG) :** Maximize The Cut Segments
+
