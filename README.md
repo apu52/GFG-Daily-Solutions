@@ -434,3 +434,5 @@ Implement Atoi
 **Day 206(16 AUG) :** Maximize The Cut Segments
 
 **Day 207(17 AUG) :** Product array puzzle
+
+**Day 208(18 AUG) :** Split an array into two equal Sum subarrays
