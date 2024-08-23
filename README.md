@@ -444,3 +444,7 @@ Implement Atoi
 **Day 211(21 AUG) :** Shortest path in Undirected Graph
 
 **Day 212(22 AUG) :** Alien Dictionary
+
+**Day 213(23 AUG) :** Left View of Binary Tree
+
+
