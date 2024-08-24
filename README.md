@@ -447,4 +447,4 @@ Implement Atoi
 
 **Day 213(23 AUG) :** Left View of Binary Tree
 
-
+**Day 214(24 AUG) :** 0 - 1 Knapsack Problem
