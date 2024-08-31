@@ -459,4 +459,6 @@ Implement Atoi
 
 **Day 219(29 AUG) :** Find length of Loop
 
-**Day 2220(30 AUG) :** N-Queen Problem
+**Day 220(30 AUG) :** N-Queen Problem
+
+**Day 221(31 AUG) :** Sorted subsequence of size 3
