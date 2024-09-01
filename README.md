@@ -462,3 +462,6 @@ Implement Atoi
 **Day 220(30 AUG) :** N-Queen Problem
 
 **Day 221(31 AUG) :** Sorted subsequence of size 3
+
+**Day 222(32 AUG) :** Max sum path in two arrays
+
