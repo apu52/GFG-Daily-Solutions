@@ -465,3 +465,5 @@ Implement Atoi
 
 **Day 222(32 AUG) :** Max sum path in two arrays
 
+**Day 223(33 AUG) :** Minimum Cost Path
+
