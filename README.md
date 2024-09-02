@@ -463,7 +463,7 @@ Implement Atoi
 
 **Day 221(31 AUG) :** Sorted subsequence of size 3
 
-**Day 222(32 AUG) :** Max sum path in two arrays
+**Day 222(1 SEPT) :** Max sum path in two arrays
 
-**Day 223(33 AUG) :** Minimum Cost Path
+**Day 223(2 SEPT) :** Minimum Cost Path
 
