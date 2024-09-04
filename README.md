@@ -469,4 +469,4 @@ Implement Atoi
 
 **Day 224(3 SEPT) :** Minimum number of deletions and insertions
 
-
+**Day 225(4 SEPT) :** Count ways to N'th Stair(Order does not matter)
