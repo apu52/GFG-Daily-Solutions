@@ -472,3 +472,5 @@ Implement Atoi
 **Day 225(4 SEPT) :** Count ways to N'th Stair(Order does not matter)
 
 **Day 226(5 SEPT) :** Missing in Array
+
+**Day 227(6 SEPT) :** Kadane's Algorithm
