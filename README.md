@@ -474,3 +474,5 @@ Implement Atoi
 **Day 226(5 SEPT) :** Missing in Array
 
 **Day 227(6 SEPT) :** Kadane's Algorithm
+
+**Day 228(7 SEPT) :** Nth Natural Number
