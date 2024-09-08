@@ -476,3 +476,8 @@ Implement Atoi
 **Day 227(6 SEPT) :** Kadane's Algorithm
 
 **Day 228(7 SEPT) :** Nth Natural Number
+
+**Day 229(8 SEPT) :** Minimum Jumps
+
+
+
