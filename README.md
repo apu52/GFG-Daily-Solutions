@@ -479,5 +479,7 @@ Implement Atoi
 
 **Day 229(8 SEPT) :** Minimum Jumps
 
+**Day 230(9 SEPT) :** Sort 0s, 1s and 2s
+
 
 
