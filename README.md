@@ -494,3 +494,6 @@ Implement Atoi
 **Day 236(15 SEPT) :** Binary Tree to DLL
 
 **Day 237(16 SEPT) :** Longest valid Parentheses
+
+**Day 238(17 SEPT) :** Minimize the Heights II
+
