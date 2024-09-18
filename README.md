@@ -497,3 +497,5 @@ Implement Atoi
 
 **Day 238(17 SEPT) :** Minimize the Heights II
 
+**Day 239(18 SEPT) :** Parenthesis Checker
+
