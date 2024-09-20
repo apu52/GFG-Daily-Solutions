@@ -501,3 +501,4 @@ Implement Atoi
 
 **Day 240(19 SEPT) :** Reverse Words
 
+**Day 241(20 SEPT) :** Facing the sun
