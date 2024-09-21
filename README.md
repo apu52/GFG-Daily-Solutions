@@ -502,3 +502,8 @@ Implement Atoi
 **Day 240(19 SEPT) :** Reverse Words
 
 **Day 241(20 SEPT) :** Facing the sun
+
+**Day 242(21 SEPT) :** Clone a linked list with next and random pointer
+
+
+
