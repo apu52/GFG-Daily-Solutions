@@ -505,5 +505,7 @@ Implement Atoi
 
 **Day 242(21 SEPT) :** Clone a linked list with next and random pointer
 
+**Day 243(22 SEPT) :** Longest Prefix Suffix
+
 
 
