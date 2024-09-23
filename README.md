@@ -507,5 +507,6 @@ Implement Atoi
 
 **Day 243(22 SEPT) :** Longest Prefix Suffix
 
+**Day 244(23 SEPT) :** Missing And Repeating
 
 
