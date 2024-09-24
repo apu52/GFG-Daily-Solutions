@@ -509,4 +509,7 @@ Implement Atoi
 
 **Day 244(23 SEPT) :** Missing And Repeating
 
+**Day 245(24 SEPT) :** Smallest window in a string containing all the characters of another string
+
+
 
