@@ -511,5 +511,6 @@ Implement Atoi
 
 **Day 245(24 SEPT) :** Smallest window in a string containing all the characters of another string
 
+**Day 246(25 SEPT) :** Palindrome Linked List
 
 
