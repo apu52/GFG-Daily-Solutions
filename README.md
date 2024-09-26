@@ -513,4 +513,6 @@ Implement Atoi
 
 **Day 246(25 SEPT) :** Palindrome Linked List
 
+**Day 247(26 SEPT) :** Roof Top
+
 
