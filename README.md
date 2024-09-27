@@ -515,4 +515,6 @@ Implement Atoi
 
 **Day 247(26 SEPT) :** Roof Top
 
+**Day 248(27 SEPT) :** K Sized Subarray Maximum
+
 
