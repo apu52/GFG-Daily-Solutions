@@ -517,4 +517,6 @@ Implement Atoi
 
 **Day 248(27 SEPT) :** K Sized Subarray Maximum
 
+**Day 249(28 SEPT) :** Minimal Cost
+
 
