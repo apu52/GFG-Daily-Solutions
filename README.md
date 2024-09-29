@@ -519,4 +519,6 @@ Implement Atoi
 
 **Day 249(28 SEPT) :** Minimal Cost
 
+**Day 250(29 SEPT) :** Total count
+
 
