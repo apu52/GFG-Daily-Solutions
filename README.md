@@ -521,4 +521,6 @@ Implement Atoi
 
 **Day 250(29 SEPT) :** Total count
 
+**Day 251(30 SEPT) :** Merge two BST 's(New Approach)
+
 
