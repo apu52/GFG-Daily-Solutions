@@ -523,4 +523,8 @@ Implement Atoi
 
 **Day 251(30 SEPT) :** Merge two BST 's(New Approach)
 
+**Day 252(01 OCT) :** Multiply two linked lists
+
+
+
 
