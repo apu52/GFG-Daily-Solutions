@@ -525,6 +525,8 @@ Implement Atoi
 
 **Day 252(01 OCT) :** Multiply two linked lists
 
+**Day 253(02 OCT) :** Rotate and delete
+
 
 
 
