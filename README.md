@@ -527,6 +527,9 @@ Implement Atoi
 
 **Day 253(02 OCT) :** Rotate and delete
 
+**Day 254(03 OCT) :** Majority Vote
+
+
 
 
 
