@@ -529,6 +529,9 @@ Implement Atoi
 
 **Day 254(03 OCT) :** Majority Vote
 
+**Day 255(04 OCT) :** Deletion and Reverse in Circular Linked List
+
+
 
 
 
