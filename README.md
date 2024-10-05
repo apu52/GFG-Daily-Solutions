@@ -531,6 +531,9 @@ Implement Atoi
 
 **Day 255(04 OCT) :** Deletion and Reverse in Circular Linked List
 
+**Day 256(05 OCT) :** Not a subset sum
+
+
 
 
 
