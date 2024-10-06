@@ -533,6 +533,9 @@ Implement Atoi
 
 **Day 256(05 OCT) :** Not a subset sum
 
+**Day 257(06 OCT) :** Find the number of islands
+
+
 
 
 
