@@ -535,6 +535,8 @@ Implement Atoi
 
 **Day 257(06 OCT) :** Find the number of islands
 
+**Day 258(07 OCT) :** XOR Linked List
+
 
 
 
