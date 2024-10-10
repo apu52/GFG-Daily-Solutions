@@ -541,6 +541,8 @@ Implement Atoi
 
 **Day 260(09 OCT) :** Linked List Matrix
 
+**Day 261(10 OCT) :** Max distance between same elements
+
 
 
 
