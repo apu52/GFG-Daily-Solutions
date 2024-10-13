@@ -545,6 +545,12 @@ Implement Atoi
 
 **Day 262(11 OCT) :** Reorganize The Array
 
+**Day 263(12 OCT) :** Two Smallests in Every Subarray
+
+**Day 264(13 OCT) :** Delete Alternate Nodes
+
+
+
 
 
 
