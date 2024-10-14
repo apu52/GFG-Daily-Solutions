@@ -549,6 +549,8 @@ Implement Atoi
 
 **Day 264(13 OCT) :** Delete Alternate Nodes
 
+**Day 265(14 OCT) :** Count Linked List Nodes
+
 
 
 
