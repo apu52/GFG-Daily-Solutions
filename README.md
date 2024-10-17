@@ -555,6 +555,8 @@ Implement Atoi
 
 **Day 267(16 OCT) :** Two Swaps
 
+**Day 268(17 OCT) :** Split Linked List Alternatingly
+
 
 
 
