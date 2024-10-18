@@ -557,6 +557,8 @@ Implement Atoi
 
 **Day 268(17 OCT) :** Split Linked List Alternatingly
 
+**Day 269(18 OCT) :** Single Number
+
 
 
 
