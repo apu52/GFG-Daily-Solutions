@@ -559,6 +559,8 @@ Implement Atoi
 
 **Day 269(18 OCT) :** Single Number
 
+**Day 270(19 OCT) :** Nearest multiple of 10
+
 
 
 
