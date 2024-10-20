@@ -561,6 +561,8 @@ Implement Atoi
 
 **Day 270(19 OCT) :** Nearest multiple of 10
 
+**Day 271(20 OCT) :** Sort a k sorted doubly linked list
+
 
 
 
