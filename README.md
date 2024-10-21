@@ -563,6 +563,8 @@ Implement Atoi
 
 **Day 271(20 OCT) :** Sort a k sorted doubly linked list
 
+**Day 272(21 OCT) :** Split the Array
+
 
 
 
