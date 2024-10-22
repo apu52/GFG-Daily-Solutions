@@ -565,6 +565,8 @@ Implement Atoi
 
 **Day 272(21 OCT) :** Split the Array
 
+**Day 273(22 OCT) :** Sub-arrays with equal number of occurences
+
 
 
 
