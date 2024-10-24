@@ -569,6 +569,7 @@ Implement Atoi
 
 **Day 274(23 OCT) :** Find the Sum of Last N nodes of the Linked List
 
+**Day 275(24 OCT) :** Modify the Array
 
 
 
