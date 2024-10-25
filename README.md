@@ -571,6 +571,7 @@ Implement Atoi
 
 **Day 275(24 OCT) :** Modify the Array
 
+**Day 276(25 OCT) :** Alternative Sorting
 
 
 
