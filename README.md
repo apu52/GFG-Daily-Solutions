@@ -575,6 +575,8 @@ Implement Atoi
 
 **Day 277(26 OCT) :** Occurence of an integer in a Linked List
 
+**Day 278(27 OCT) :** Triplet Family
+
 
 
 
