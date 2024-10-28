@@ -577,6 +577,8 @@ Implement Atoi
 
 **Day 278(27 OCT) :** Triplet Family
 
+**Day 279(28 OCT) :** Remove duplicates in array
+
 
 
 
