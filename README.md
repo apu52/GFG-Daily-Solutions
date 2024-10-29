@@ -579,6 +579,8 @@ Implement Atoi
 
 **Day 279(28 OCT) :** Remove duplicates in array
 
+**Day 280(29 OCT) :** Quick Sort on Linked List
+
 
 
 
