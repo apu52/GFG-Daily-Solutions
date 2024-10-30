@@ -581,6 +581,7 @@ Implement Atoi
 
 **Day 280(29 OCT) :** Quick Sort on Linked List
 
+**Day 281(30 OCT) :** Pairs with difference k
 
 
 
