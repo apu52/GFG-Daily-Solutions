@@ -583,6 +583,8 @@ Implement Atoi
 
 **Day 281(30 OCT) :** Pairs with difference k
 
+**Day 282(31 OCT) :** Insert in Sorted way in a Sorted DLL
+
 
 
 
