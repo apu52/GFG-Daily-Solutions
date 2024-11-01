@@ -585,6 +585,9 @@ Implement Atoi
 
 **Day 282(31 OCT) :** Insert in Sorted way in a Sorted DLL
 
+**Day 283(01 NOV) :** Swap and Maximize
+
+
 
 
 
