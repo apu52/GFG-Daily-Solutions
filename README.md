@@ -589,6 +589,9 @@ Implement Atoi
 
 **Day 284(02 NOV) :** Kth distance
 
+**Day 285(03 NOV) :** Is Linked List Length Even?
+
+
 
 
 
