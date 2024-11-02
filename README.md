@@ -587,6 +587,8 @@ Implement Atoi
 
 **Day 283(01 NOV) :** Swap and Maximize
 
+**Day 284(02 NOV) :** Kth distance
+
 
 
 
