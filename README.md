@@ -595,6 +595,8 @@ Implement Atoi
 
 **Day 287(05 NOV) :** Rotate by 90 degree
 
+**Day 288(06 NOV) :** Root to leaf paths sum
+
 
 
 
