@@ -597,6 +597,8 @@ Implement Atoi
 
 **Day 288(06 NOV) :** Root to leaf paths sum
 
+**Day 289(07 NOV) :** Split array in three equal sum subarrays
+
 
 
 
