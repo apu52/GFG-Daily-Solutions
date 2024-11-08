@@ -599,6 +599,9 @@ Implement Atoi
 
 **Day 289(07 NOV) :** Split array in three equal sum subarrays
 
+**Day 290(08 NOV) :** Minimum repeat to make substring
+
+
 
 
 
