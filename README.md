@@ -601,6 +601,9 @@ Implement Atoi
 
 **Day 290(08 NOV) :** Minimum repeat to make substring
 
+**Day 291(09 NOV) :** Minimum sum
+
+
 
 
 
