@@ -611,6 +611,7 @@ Implement Atoi
 
 **Day 295(13 NOV) :** Intersection Point in Y Shaped Linked Lists
 
+**Day 296(14 NOV) :** Nearly sorted
 
 
 
