@@ -613,6 +613,9 @@ Implement Atoi
 
 **Day 296(14 NOV) :** Nearly sorted
 
+**Day 297(15 NOV) :** Second Largest
+
+
 
 
 
