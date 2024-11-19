@@ -621,6 +621,8 @@ Implement Atoi
 
 **Day 300(18 NOV) :** Rotate Array
 
+**Day 301(19 NOV) :** Next Permutation
+
 
 
 
