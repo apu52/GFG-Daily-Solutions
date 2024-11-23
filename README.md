@@ -629,6 +629,8 @@ Implement Atoi
 
 **Day 304(22 NOV) :** Stock Buy and Sell – Max one Transaction Allowed
 
+**Day 305(23 NOV) :** Minimize the Heights I
+
 
 
 
