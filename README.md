@@ -613,6 +613,8 @@ Implement Atoi
 
 **Day 296(14 NOV) :** Nearly sorted
 
+# GFG 160 (160 days of DSA Problems)
+
 **Day 297(15 NOV) :** Second Largest
 
 **Day 298(16 NOV) :** Move All Zeroes to End
@@ -629,7 +631,9 @@ Implement Atoi
 
 **Day 304(22 NOV) :** Stock Buy and Sell – Max one Transaction Allowed
 
-**Day 305(23 NOV) :** Minimize the Heights I
+**Day 305(23 NOV) :** Minimize the Heights I  ++ Minimize the Heights I(GFG 160)
+
+**Day 306(24 NOV) :** Kadane's Algorithm
 
 
 
