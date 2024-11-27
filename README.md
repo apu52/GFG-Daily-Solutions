@@ -641,6 +641,15 @@ Implement Atoi
 
 **Day 309(27 NOV) :** Smallest Positive Missing Number
 
+# GFG 160 (160 days of DSA Problems -- BONUS ARRAY PROBLEMS)
+
+**Q1** : **Split array in three equal sum subarrays**
+
+**Q2** : **Repetitive Addition Of Digits**
+
+**Q3** : **Maximize Number of 1's**
+
+**Q4** : **Last Moment Before All Ants Fall Out of a Plank**
 
 
 
