@@ -641,6 +641,10 @@ Implement Atoi
 
 **Day 309(27 NOV) :** Smallest Positive Missing Number
 
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 # GFG 160 (160 days of DSA Problems -- BONUS ARRAY PROBLEMS)
 
 **Q1** : **Split array in three equal sum subarrays**
@@ -651,9 +655,9 @@ Implement Atoi
 
 **Q4** : **Last Moment Before All Ants Fall Out of a Plank**
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
-
+**Day 310(28 NOV) :** Implement Atoi
 
 
 
