@@ -641,8 +641,6 @@ Implement Atoi
 
 **Day 309(27 NOV) :** Smallest Positive Missing Number
 
-
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # GFG 160 (160 days of DSA Problems -- BONUS ARRAY PROBLEMS)
@@ -660,6 +658,8 @@ Implement Atoi
 **Day 310(28 NOV) :** Implement Atoi
 
 **Day 311(29 NOV) :** Add Binary Strings
+
+**Day 312(30 NOV) :** Anagram
 
 
 
