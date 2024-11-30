@@ -661,6 +661,9 @@ Implement Atoi
 
 **Day 312(30 NOV) :** Anagram
 
+**Day 313(01 DEC) :** Non Repeating Character
+
+
 
 
 
