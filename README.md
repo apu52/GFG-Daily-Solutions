@@ -663,6 +663,7 @@ Implement Atoi
 
 **Day 313(01 DEC) :** Non Repeating Character
 
+**Day 314(02 DEC) :** Search Pattern (KMP-Algorithm)
 
 
 
