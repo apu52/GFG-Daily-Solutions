@@ -665,6 +665,8 @@ Implement Atoi
 
 **Day 314(02 DEC) :** Search Pattern (KMP-Algorithm)
 
+**Day 315(03 DEC) :** Min Chars to Add for Palindrome
+
 
 
 
