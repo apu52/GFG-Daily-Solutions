@@ -669,7 +669,23 @@ Implement Atoi
 
 **Day 316(04 DEC) :** Strings Rotations of Each Other
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+# GFG 160 (160 days of DSA Problems -- BONUS STRING PROBLEMS)
+
+**Q1** : **Fizz Buzz**
+
+**Q2** : **CamelCase Pattern Matching**
+
+**Q3** : **Palindrome Sentence**
+
+**Q4** : **Minimum repeat to make substring**
+
+**Q5** : **Longest Prefix Suffix**
+
+**Q6** : **Integer to Words**
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
