@@ -691,6 +691,8 @@ Implement Atoi
 
 **Day 318(06 DEC) :** Find H-Index
 
+**Day 319(07 DEC) :** Count Inversions
+
 
 
 
