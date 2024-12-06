@@ -689,6 +689,8 @@ Implement Atoi
 
 **Day 317(05 DEC) :** Sort 0s, 1s and 2s
 
+**Day 318(06 DEC) :** Find H-Index
+
 
 
 
