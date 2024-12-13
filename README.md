@@ -717,6 +717,8 @@ Implement Atoi
 
 **Day 324(12 DEC) :** Number of occurrence
 
+**Day 325(13 DEC) :** Sorted and Rotated Minimum
+
 
 
 
