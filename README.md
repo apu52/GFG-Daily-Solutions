@@ -723,6 +723,8 @@ Implement Atoi
 
 **Day 327(15 DEC) :** Peak element
 
+**Day 328(16 DEC) :** K-th element of two Arrays
+
 
 
 
