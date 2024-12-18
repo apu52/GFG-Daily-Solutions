@@ -727,6 +727,8 @@ Implement Atoi
 
 **Day 329(17 DEC) :** Aggressive Cows
 
+**Day 330(18 DEC) :** Allocate Minimum Pages
+
 
 
 
