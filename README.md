@@ -729,6 +729,11 @@ Implement Atoi
 
 **Day 330(18 DEC) :** Allocate Minimum Pages
 
+**Day 331(19 DEC) :** Kth Missing Positive Number in a Sorted Array
+
+**Day 332(20 DEC) :** Spirally traversing a matrix
+
+
 
 
 
