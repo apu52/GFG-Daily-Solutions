@@ -735,6 +735,8 @@ Implement Atoi
 
 **Day 333(21 DEC) :** Rotate by 90 degree
 
+**Day 334(22 DEC) :** Search in a Row-Column sorted matrix
+
 
 
 
