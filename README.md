@@ -737,6 +737,8 @@ Implement Atoi
 
 **Day 334(22 DEC) :** Search in a Row-Column sorted matrix
 
+**Day 335(23 DEC) :** Search in a sorted Matrix
+
 
 
 
