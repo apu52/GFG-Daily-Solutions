@@ -731,6 +731,24 @@ Implement Atoi
 
 **Day 331(19 DEC) :** Kth Missing Positive Number in a Sorted Array
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# GFG 160 (160 days of DSA Problems -- BONUS SEARCHING PROBLEMS)
+
+**Q1** : **Implement Lower Bound**
+
+**Q2** : **Bitonic Point**
+
+**Q3** : **Median of 2 Sorted Arrays of Different Sizes**
+
+**Q4** : **Square Root**
+
+**Q5** : **Koko Eating Bananas**
+
+**Q6** : **Minimum days to make M bouquets**
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 **Day 332(20 DEC) :** Spirally traversing a matrix
 
 **Day 333(21 DEC) :** Rotate by 90 degree
