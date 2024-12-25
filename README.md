@@ -755,11 +755,25 @@ Implement Atoi
 
 **Day 334(22 DEC) :** Search in a Row-Column sorted matrix
 
-**Day 335(23 DEC) :** Search in a sorted Matrix
+**Day 335(23 DEC) :** Search in a row-wise sorted matrix
 
-**Day 336(24 DEC) :** Set Matrix Zeroes
+**Day 336(24 DEC) :** Search in a sorted Matrix
 
+**Day 337(25 DEC) :** Set Matrix Zeroes
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+# GFG 160 (160 days of DSA Problems -- BONUS MATRIX PROBLEMS)
+
+**Q1** : **Rotate a Matrix by 180 Counterclockwise**
+
+**Q2** : **Create a spiral matrix of N*M size from given array**
+
+**Q3** : **Generate a matrix with each row and column of given sum**
+
+**Q4** : **Make Matrix Beautiful**
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
