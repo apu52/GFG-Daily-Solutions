@@ -757,6 +757,8 @@ Implement Atoi
 
 **Day 335(23 DEC) :** Search in a sorted Matrix
 
+**Day 336(24 DEC) :** Set Matrix Zeroes
+
 
 
 
