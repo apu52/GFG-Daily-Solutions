@@ -777,6 +777,8 @@ Implement Atoi
 
 **Day 338(26 DEC) :** Two Sum - Pair with Given Sum
 
+**Day 339(27 DEC) :** Count pairs with given sum
+
 
 
 
