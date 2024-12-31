@@ -785,6 +785,8 @@ Implement Atoi
 
 **Day 342(30 DEC) :** Union of Arrays with Duplicates
 
+**Day 343(31 DEC) :** Longest Consecutive Subsequence
+
 
 
 
