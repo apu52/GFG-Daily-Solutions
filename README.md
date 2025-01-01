@@ -787,6 +787,9 @@ Implement Atoi
 
 **Day 343(31 DEC) :** Longest Consecutive Subsequence
 
+**Day 344(01 JAN) :** Print Anagrams Together
+
+
 
 
 
