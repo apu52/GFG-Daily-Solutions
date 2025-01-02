@@ -789,6 +789,8 @@ Implement Atoi
 
 **Day 344(01 JAN) :** Print Anagrams Together
 
+**Day 345(02 JAN) :** Subarrays with sum K
+
 
 
 
