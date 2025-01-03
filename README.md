@@ -791,6 +791,8 @@ Implement Atoi
 
 **Day 345(02 JAN) :** Subarrays with sum K
 
+**Day 346(03 JAN) :** Count Subarrays with given XOR
+
 
 
 
