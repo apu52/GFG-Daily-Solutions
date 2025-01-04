@@ -793,6 +793,8 @@ Implement Atoi
 
 **Day 346(03 JAN) :** Count Subarrays with given XOR
 
+**Day 347(04 JAN) :** Count all triplets with given sum in sorted array
+
 
 
 
