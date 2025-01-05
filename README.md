@@ -795,6 +795,8 @@ Implement Atoi
 
 **Day 347(04 JAN) :** Count all triplets with given sum in sorted array
 
+**Day 348(05 JAN) :** Count Pairs whose sum is less than target
+
 
 
 
