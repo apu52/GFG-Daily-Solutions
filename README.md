@@ -797,6 +797,9 @@ Implement Atoi
 
 **Day 348(05 JAN) :** Count Pairs whose sum is less than target
 
+**Day 349(06 JAN) :** Sum Pair closest to target
+
+
 
 
 
