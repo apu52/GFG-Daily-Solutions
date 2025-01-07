@@ -799,6 +799,7 @@ Implement Atoi
 
 **Day 349(06 JAN) :** Sum Pair closest to target
 
+**Day 350(07 JAN) :** Pair with given sum in a sorted array
 
 
 
