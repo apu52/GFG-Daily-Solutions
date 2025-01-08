@@ -801,6 +801,8 @@ Implement Atoi
 
 **Day 350(07 JAN) :** Pair with given sum in a sorted array
 
+**Day 351(08 JAN) :** Count the number of possible triangles
+
 
 
 
