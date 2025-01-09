@@ -803,6 +803,8 @@ Implement Atoi
 
 **Day 351(08 JAN) :** Count the number of possible triangles
 
+**Day 352(09 JAN) :** Indexes of Subarray Sum
+
 
 
 
