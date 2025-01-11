@@ -807,6 +807,8 @@ Implement Atoi
 
 **Day 353(10 JAN) :** Count distinct elements in every window
 
+**Day 354(11 JAN) :** Longest substring with distinct characters
+
 
 
 
