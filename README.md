@@ -809,6 +809,8 @@ Implement Atoi
 
 **Day 354(11 JAN) :** Longest substring with distinct characters
 
+**Day 355(12 JAN) :** Trapping Rain Water
+
 
 
 
