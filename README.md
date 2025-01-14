@@ -813,6 +813,8 @@ Implement Atoi
 
 **Day 356(13 JAN) :** Container With Most Water
 
+**Day 357(14 JAN) :** Equilibrium Point
+
 
 
 
