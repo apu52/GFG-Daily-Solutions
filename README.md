@@ -815,6 +815,9 @@ Implement Atoi
 
 **Day 357(14 JAN) :** Equilibrium Point
 
+**Day 358(15 JAN) :** Longest Subarray with Sum K
+
+
 
 
 
