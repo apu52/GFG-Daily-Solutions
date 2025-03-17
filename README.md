@@ -821,6 +821,8 @@ Implement Atoi
 
 **Day 360(16 MAR) :** Minimum Jumps
 
+**Day 361(17 MAR) :** Subset Sum Problem
+
 
 
 
