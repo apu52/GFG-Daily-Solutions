@@ -823,6 +823,8 @@ Implement Atoi
 
 **Day 361(17 MAR) :** Subset Sum Problem
 
+**Day 362(18 MAR) :** Partition Equal Subset Sum
+
 
 
 
