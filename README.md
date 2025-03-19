@@ -825,6 +825,7 @@ Implement Atoi
 
 **Day 362(18 MAR) :** Partition Equal Subset Sum
 
+**Day 363(19 MAR) :** Stock Buy and Sell – Max K Transactions Allowed
 
 
 
