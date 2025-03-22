@@ -831,6 +831,8 @@ Implement Atoi
 
 **Day 365(21 MAR) :** Stickler Thief
 
+**Day 366(22 MAR) :** Stickler Thief II
+
 
 
 
