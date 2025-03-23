@@ -833,6 +833,8 @@ Implement Atoi
 
 **Day 366(22 MAR) :** Stickler Thief II
 
+**Day 367(23 MAR) :** Total Decoding Messages
+
 
 
 
