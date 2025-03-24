@@ -835,6 +835,8 @@ Implement Atoi
 
 **Day 367(23 MAR) :** Total Decoding Messages
 
+**Day 368(24 MAR) :** Matrix Chain Multiplication
+
 
 
 
