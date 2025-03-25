@@ -837,6 +837,7 @@ Implement Atoi
 
 **Day 368(24 MAR) :** Matrix Chain Multiplication
 
+**Day 369(25 MAR) :** Check if Grid can be Cut into Sections
 
 
 
