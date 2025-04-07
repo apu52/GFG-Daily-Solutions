@@ -841,6 +841,8 @@ Implement Atoi
 
 **Day 370(26 MAR) :** Word Break
 
+**Day 371(07 APR) :** Directed Graph Cycle
+
 
 
 
