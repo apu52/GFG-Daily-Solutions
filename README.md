@@ -843,6 +843,8 @@ Implement Atoi
 
 **Day 371(07 APR) :** Directed Graph Cycle
 
+**Day 372(08 APR) :** Bridge edge in a graph
+
 
 
 
