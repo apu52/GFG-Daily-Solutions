@@ -859,6 +859,8 @@ Implement Atoi
 
 **Day 379(17 APR) :** Minimum Weight Cycle
 
+**Day 380(18 APR) :** Implement Trie
+
 
 
 
