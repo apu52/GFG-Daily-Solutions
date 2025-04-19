@@ -861,6 +861,8 @@ Implement Atoi
 
 **Day 380(18 APR) :** Implement Trie
 
+**Day 381(19 APR) :** Maximum XOR of two numbers in an array
+
 
 
 
