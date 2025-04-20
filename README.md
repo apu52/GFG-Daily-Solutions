@@ -863,6 +863,8 @@ Implement Atoi
 
 **Day 381(19 APR) :** Maximum XOR of two numbers in an array
 
+**Day 382(20 APR) :** Find Only Repetitive Element from 1 to n-1
+
 
 
 
