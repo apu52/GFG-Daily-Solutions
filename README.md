@@ -865,6 +865,8 @@ Implement Atoi
 
 **Day 382(20 APR) :** Find Only Repetitive Element from 1 to n-1
 
+**Day 383(21 APR) :** Missing in Array
+
 
 
 
