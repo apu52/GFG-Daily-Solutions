@@ -867,6 +867,8 @@ Implement Atoi
 
 **Day 383(21 APR) :** Missing in Array
 
+**Day 384(22 APR) :** Unique Number I
+
 
 
 
