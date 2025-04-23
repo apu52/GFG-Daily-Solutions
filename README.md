@@ -869,6 +869,8 @@ Implement Atoi
 
 **Day 384(22 APR) :** Unique Number I
 
+**Day 385(23 APR) :** Unique Number II
+
 
 
 
