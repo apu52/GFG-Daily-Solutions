@@ -871,6 +871,12 @@ Implement Atoi
 
 **Day 385(23 APR) :** Unique Number II
 
+**Day 386(24 APR) :** Unique Number III
+
+**Day 387(24 APR) :** Majority Element
+
+
+
 
 
 
