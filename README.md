@@ -873,7 +873,9 @@ Implement Atoi
 
 **Day 386(24 APR) :** Unique Number III
 
-**Day 387(24 APR) :** Majority Element
+**Day 387(25 APR) :** Majority Element
+
+**Day 388(26 APR) :** Is Binary Tree Heap
 
 
 
