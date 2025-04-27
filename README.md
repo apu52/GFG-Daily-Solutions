@@ -877,6 +877,9 @@ Implement Atoi
 
 **Day 388(26 APR) :** Is Binary Tree Heap
 
+**Day 389(27 APR) :** Multiply two strings
+
+
 
 
 
