@@ -879,6 +879,9 @@ Implement Atoi
 
 **Day 389(27 APR) :** Multiply two strings
 
+**Day 390(28 APR) :** Maximum sum of Non-adjacent nodes
+
+
 
 
 
