@@ -885,6 +885,8 @@ Implement Atoi
 
 **Day 392(05 DEC) :** Walls Coloring II
 
+**Day 393(07 DEC) :** Number of distinct subsequences
+
 
 
 
