@@ -887,6 +887,9 @@ Implement Atoi
 
 **Day 393(07 DEC) :** Number of distinct subsequences
 
+**Day 394(08 DEC) :** Brackets in Matrix Chain Multiplication
+
+
 
 
 
