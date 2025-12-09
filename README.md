@@ -889,6 +889,9 @@ Implement Atoi
 
 **Day 394(08 DEC) :** Brackets in Matrix Chain Multiplication
 
+**Day 395(09 DEC) :** Array Duplicates
+
+
 
 
 
