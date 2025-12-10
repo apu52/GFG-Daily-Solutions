@@ -891,6 +891,8 @@ Implement Atoi
 
 **Day 395(09 DEC) :** Array Duplicates
 
+**Day 396(10 DEC) :** Missing And Repeating
+
 
 
 
