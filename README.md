@@ -897,6 +897,8 @@ Implement Atoi
 
 **Day 398(12 DEC) :** Transpose of Matrix
 
+**Day 399(13 DEC) :** Swap diagonals
+
 
 
 
