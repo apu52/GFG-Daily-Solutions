@@ -899,6 +899,8 @@ Implement Atoi
 
 **Day 399(13 DEC) :** Swap diagonals
 
+**Day 400(14 DEC) :** 2D Submatrix Sum Queries
+
 
 
 
