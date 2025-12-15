@@ -901,6 +901,9 @@ Implement Atoi
 
 **Day 400(14 DEC) :** 2D Submatrix Sum Queries
 
+**Day 401(15 DEC) :** Count Indices to Balance Even and Odd Sums
+
+
 
 
 
