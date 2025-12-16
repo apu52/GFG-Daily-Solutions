@@ -903,6 +903,9 @@ Implement Atoi
 
 **Day 401(15 DEC) :** Count Indices to Balance Even and Odd Sums
 
+**Day 402(16 DEC) :** Strings Rotations of Each Other
+
+
 
 
 
