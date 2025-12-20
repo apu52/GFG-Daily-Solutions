@@ -911,6 +911,8 @@ Implement Atoi
 
 **Day 405(19 DEC) :** Bus Conductor
 
+**Day 406(20 DEC) :** Search insert position of K in a sorted array
+
 
 
 
