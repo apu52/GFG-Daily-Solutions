@@ -913,6 +913,8 @@ Implement Atoi
 
 **Day 406(20 DEC) :** Search insert position of K in a sorted array
 
+**Day 407(21 DEC) :** Count X in Range of a Sorted Array
+
 
 
 
