@@ -917,6 +917,8 @@ Implement Atoi
 
 **Day 408(22 DEC) :** Row with max 1s
 
+**Day 409(23 DEC) :** Elements in range [a, b]
+
 
 
 
