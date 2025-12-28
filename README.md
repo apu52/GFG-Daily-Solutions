@@ -927,6 +927,7 @@ Implement Atoi
 
 **Day 413(27 DEC) :** Kth smallest element in a Matrix
 
+**Day 414(28 DEC) :** Minimum time to fulfil all orders
 
 
 
