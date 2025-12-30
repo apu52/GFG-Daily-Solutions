@@ -929,6 +929,10 @@ Implement Atoi
 
 **Day 414(28 DEC) :** Minimum time to fulfil all orders
 
+**Day 415(29 DEC) :** K-th element of two Arrays
+
+**Day 416(30 DEC) :** Add Number Linked Lists
+
 
 
 
