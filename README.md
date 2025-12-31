@@ -933,6 +933,8 @@ Implement Atoi
 
 **Day 416(30 DEC) :** Add Number Linked Lists
 
+**Day 417(31 DEC) :** Palindrome Linked List
+
 
 
 
