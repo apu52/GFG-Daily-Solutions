@@ -935,6 +935,11 @@ Implement Atoi
 
 **Day 417(31 DEC) :** Palindrome Linked List
 
+**Day 418(1 JAN) :**  Intersection in Y Shaped Lists
+
+**Day 419(2 JAN) :**  Sort 0s, 1s and 2s
+
+**Day 420(3 JAN) :** Flattening a Linked List
 
 
 
