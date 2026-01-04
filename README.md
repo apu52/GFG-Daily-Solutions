@@ -941,6 +941,8 @@ Implement Atoi
 
 **Day 420(3 JAN) :** Flattening a Linked List
 
+**Day 421(4 JAN) :** Sort 0s, 1s and 2s
+
 
 
 
