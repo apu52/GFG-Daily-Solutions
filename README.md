@@ -945,6 +945,8 @@ Implement Atoi
 
 **Day 422(5 JAN) :** Max Sum Subarray of size K
 
+**Day 423(6 JAN) :** Max Xor Subarray of size K
+
 
 
 
