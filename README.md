@@ -947,6 +947,8 @@ Implement Atoi
 
 **Day 423(6 JAN) :** Max Xor Subarray of size K
 
+**Day 424(7 JAN) :** Count distinct elements in every window
+
 
 
 
