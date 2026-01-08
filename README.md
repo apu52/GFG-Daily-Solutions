@@ -949,6 +949,7 @@ Implement Atoi
 
 **Day 424(7 JAN) :** Count distinct elements in every window
 
+**Day 425(8 JAN) :** Count Subarray with k odds
 
 
 
