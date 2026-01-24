@@ -953,6 +953,8 @@ Implement Atoi
 
 **Day 426(22 JAN) :** Sum of subarray ranges
 
+**Day 427(24 JAN) :** Josephus problem
+
 
 
 
