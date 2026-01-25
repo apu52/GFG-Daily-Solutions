@@ -955,6 +955,8 @@ Implement Atoi
 
 **Day 427(24 JAN) :** Josephus problem
 
+**Day 428(25 JAN) :** Number of Valid Parentheses
+
 
 
 
