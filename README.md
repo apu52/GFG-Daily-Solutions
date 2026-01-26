@@ -957,6 +957,9 @@ Implement Atoi
 
 **Day 428(25 JAN) :** Number of Valid Parentheses
 
+**Day 429(26 JAN) :** Generate Permutations of an array
+
+
 
 
 
