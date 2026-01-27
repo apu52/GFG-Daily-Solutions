@@ -959,6 +959,8 @@ Implement Atoi
 
 **Day 429(26 JAN) :** Generate Permutations of an array
 
+**Day 430(27 JAN) :** Word Search
+
 
 
 
