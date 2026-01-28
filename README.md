@@ -961,6 +961,8 @@ Implement Atoi
 
 **Day 430(27 JAN) :** Word Search
 
+**Day 431(28 JAN) :** Count Subset With Target Sum II
+
 
 
 
