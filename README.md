@@ -965,6 +965,8 @@ Implement Atoi
 
 **Day 432(29 JAN) :** Stream First Non-repeating
 
+**Day 433(30 JAN) :** Interleave the First Half of the Queue with Second Half
+
 
 
 
