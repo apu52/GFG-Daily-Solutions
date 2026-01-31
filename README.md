@@ -967,6 +967,8 @@ Implement Atoi
 
 **Day 433(30 JAN) :** Interleave the First Half of the Queue with Second Half
 
+**Day 434(31 JAN) :** Implement k Queues in a Single Array
+
 
 
 
