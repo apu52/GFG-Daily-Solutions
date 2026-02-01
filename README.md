@@ -969,6 +969,8 @@ Implement Atoi
 
 **Day 434(31 JAN) :** Implement k Queues in a Single Array
 
+**Day 435(1 FEB) :** K Sized Subarray Maximum
+
 
 
 
