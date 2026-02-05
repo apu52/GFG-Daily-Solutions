@@ -971,6 +971,12 @@ Implement Atoi
 
 **Day 435(1 FEB) :** K Sized Subarray Maximum
 
+**Day 436(3 FEB) :** Stock Buy and Sell – Max one Transaction Allowed
+
+**Day 437(4 FEB) :** Last Moment Before All Ants Fall Out
+
+**Day 438(5 FEB) :** Maximize Number of 1's
+
 
 
 
