@@ -977,6 +977,10 @@ Implement Atoi
 
 **Day 438(5 FEB) :** Maximize Number of 1's
 
+**Day 439(6 FEB) :** Happiest Triplet
+
+**Day 440(7 FEB) :** Max sum in the configuration
+
 
 
 
