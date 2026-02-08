@@ -981,6 +981,8 @@ Implement Atoi
 
 **Day 440(7 FEB) :** Max sum in the configuration
 
+**Day 441(8 FEB) :** Maximum Product Subarray
+
 
 
 
