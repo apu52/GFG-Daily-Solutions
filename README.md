@@ -983,6 +983,8 @@ Implement Atoi
 
 **Day 441(8 FEB) :** Maximum Product Subarray
 
+**Day 442(10 FEB) :** Koko Eating Bananas
+
 
 
 
