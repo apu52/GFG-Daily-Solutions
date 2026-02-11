@@ -985,6 +985,9 @@ Implement Atoi
 
 **Day 442(10 FEB) :** Koko Eating Bananas
 
+**Day 443(11 FEB) :** Equalize the Towers
+
+
 
 
 
