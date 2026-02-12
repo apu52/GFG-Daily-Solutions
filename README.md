@@ -987,6 +987,8 @@ Implement Atoi
 
 **Day 443(11 FEB) :** Equalize the Towers
 
+**Day 444(12 FEB) :** Max min Height
+
 
 
 
