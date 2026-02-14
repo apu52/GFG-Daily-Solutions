@@ -991,6 +991,8 @@ Implement Atoi
 
 **Day 445(13 FEB) :** All numbers with specific difference
 
+**Day 446(14 FEB) :** The Painter's Partition Problem-II
+
 
 
 
