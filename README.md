@@ -993,7 +993,8 @@ Implement Atoi
 
 **Day 446(14 FEB) :** The Painter's Partition Problem-II
 
-**Day 447(15 FEB) :** Add Binary
+**Day 447(15 FEB) :** Chocolate Distribution Problem
+
 
 
 
