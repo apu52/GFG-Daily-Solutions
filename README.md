@@ -999,6 +999,8 @@ Implement Atoi
 
 **Day 449(17 FEB) :** Maximum number of overlapping Intervals
 
+**Day 450(18 FEB) :** Count Inversions
+
 
 
 
