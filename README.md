@@ -1001,6 +1001,8 @@ Implement Atoi
 
 **Day 450(18 FEB) :** Count Inversions
 
+**Day 451(19 FEB) :** Missing Element in Range
+
 
 
 
