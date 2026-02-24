@@ -1011,6 +1011,8 @@ Implement Atoi
 
 **Day 455(23 FEB) :** Union of Arrays with Duplicates
 
+**Day 456(24 FEB) :** Longest Span in two Binary Arrays
+
 
 
 
