@@ -1027,6 +1027,8 @@ Implement Atoi
 
 **Day 463(03 MAR) :** Longest subarray with Atmost two distinct integers
 
+**Day 464(04 MAR) :** Max Xor Subarray of size K
+
 
 
 
