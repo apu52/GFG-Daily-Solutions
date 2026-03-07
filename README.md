@@ -1033,6 +1033,8 @@ Implement Atoi
 
 **Day 466(06 MAR) :** Smallest window containing all characters
 
+**Day 467(07 MAR) :** Dice throw
+
 
 
 
