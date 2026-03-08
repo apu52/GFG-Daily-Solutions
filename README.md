@@ -1035,6 +1035,8 @@ Implement Atoi
 
 **Day 467(07 MAR) :** Dice throw
 
+**Day 468(08 MAR) :** Pythagorean Triplet
+
 
 
 
