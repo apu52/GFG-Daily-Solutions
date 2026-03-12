@@ -1043,6 +1043,8 @@ Implement Atoi
 
 **Day 471(11 MAR) :** Sum of subarray minimums
 
+**Day 472(12 MAR) :** Minimum K Consecutive Bit Flips
+
 
 
 
