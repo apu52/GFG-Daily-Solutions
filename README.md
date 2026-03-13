@@ -1045,6 +1045,8 @@ Implement Atoi
 
 **Day 472(12 MAR) :** Minimum K Consecutive Bit Flips
 
+**Day 473(13 MAR) :** Generate IP Addresses
+
 
 
 
