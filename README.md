@@ -1049,6 +1049,8 @@ Implement Atoi
 
 **Day 474(14 MAR) :** Top View of Binary Tree
 
+**Day 475(15 MAR) :** Vertical Tree Traversal
+
 
 
 
