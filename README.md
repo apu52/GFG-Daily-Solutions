@@ -1055,6 +1055,8 @@ Implement Atoi
 
 **Day 477(17 MAR) :** Burning Tree
 
+**Day 478(18 MAR) :** Distribute Candies
+
 
 
 
