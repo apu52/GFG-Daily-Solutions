@@ -1065,6 +1065,8 @@ Implement Atoi
 
 **Day 482(22 MAR) :** Rotten Oranges
 
+**Day 483(23 MAR) :** Length of Longest Cycle in a Graph
+
 
 
 
