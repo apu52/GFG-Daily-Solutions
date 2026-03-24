@@ -1067,6 +1067,8 @@ Implement Atoi
 
 **Day 483(23 MAR) :** Length of Longest Cycle in a Graph
 
+**Day 484(24 MAR) :** Course Schedule I
+
 
 
 
