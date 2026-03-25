@@ -1069,6 +1069,8 @@ Implement Atoi
 
 **Day 484(24 MAR) :** Course Schedule I
 
+**Day 485(25 MAR) :** Minimum height roots
+
 
 
 
