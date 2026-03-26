@@ -1071,6 +1071,8 @@ Implement Atoi
 
 **Day 485(25 MAR) :** Minimum height roots
 
+**Day 486(26 MAR) :** Number of Ways to Arrive at Destination
+
 
 
 
