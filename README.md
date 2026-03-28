@@ -1075,6 +1075,8 @@ Implement Atoi
 
 **Day 487(27 MAR) :** Chocolates Pickup
 
+**Day 488(28 MAR) :** Articulation Point - II
+
 
 
 
