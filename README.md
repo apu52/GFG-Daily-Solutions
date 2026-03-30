@@ -1079,6 +1079,8 @@ Implement Atoi
 
 **Day 489(29 MAR) :** Partitions with Given Difference
 
+**Day 490(30 MAR) :** Minimum cost to connect all houses in a city
+
 
 
 
