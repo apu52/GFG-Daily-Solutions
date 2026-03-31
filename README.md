@@ -1081,6 +1081,8 @@ Implement Atoi
 
 **Day 490(30 MAR) :** Minimum cost to connect all houses in a city
 
+**Day 491(31 MAR) :** Buy Stock with Transaction Fee
+
 
 
 
