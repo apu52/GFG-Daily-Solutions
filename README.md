@@ -1083,6 +1083,8 @@ Implement Atoi
 
 **Day 491(31 MAR) :** Buy Stock with Transaction Fee
 
+**Day 492(01 APR) :** Consecutive 1's not allowed
+
 
 
 
