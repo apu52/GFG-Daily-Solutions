@@ -1085,6 +1085,8 @@ Implement Atoi
 
 **Day 492(01 APR) :** Consecutive 1's not allowed
 
+**Day 493(02 APR) :** Painting the Fence
+
 
 
 
