@@ -1087,6 +1087,8 @@ Implement Atoi
 
 **Day 493(02 APR) :** Painting the Fence
 
+**Day 494(03 APR) :** Print Diagonally
+
 
 
 
