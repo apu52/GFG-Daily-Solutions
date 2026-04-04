@@ -1089,6 +1089,8 @@ Implement Atoi
 
 **Day 494(03 APR) :** Print Diagonally
 
+**Day 495(04 APR) :** Gray Code
+
 
 
 
