@@ -1091,6 +1091,8 @@ Implement Atoi
 
 **Day 495(04 APR) :** Gray Code
 
+**Day 496(05 APR) :** Target Sum
+
 
 
 
