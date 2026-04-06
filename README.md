@@ -1093,6 +1093,8 @@ Implement Atoi
 
 **Day 496(05 APR) :** Target Sum
 
+**Day 497(06 APR) :** Huffman Encoding
+
 
 
 
