@@ -1097,6 +1097,8 @@ Implement Atoi
 
 **Day 498(07 APR) :** Stable Marriage Problem
 
+**Day 499(08 APR) :** Segregate 0s and 1s
+
 
 
 
