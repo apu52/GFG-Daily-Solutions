@@ -1099,6 +1099,7 @@ Implement Atoi
 
 **Day 499(08 APR) :** Segregate 0s and 1s
 
+**Day 500(09 APR) :** Intersection of Two Sorted Arrays
 
 
 
