@@ -819,11 +819,11 @@ Implement Atoi
 
 **Day 359(16 JAN) :** Largest subarray of 0's and 1's
 
-**Day 360(16 MAR) :** Minimum Jumps
+**Day 360(17 MAR) :** Minimum Jumps
 
-**Day 361(17 MAR) :** Subset Sum Problem
+**Day 361(18 MAR) :** Subset Sum Problem
 
-**Day 362(18 MAR) :** Partition Equal Subset Sum
+**Day 362(19 MAR) :** Partition Equal Subset Sum
 
 **Day 363(19 MAR) :** Stock Buy and Sell – Max K Transactions Allowed
 
@@ -983,105 +983,105 @@ Implement Atoi
 
 **Day 441(8 FEB) :** Maximum Product Subarray
 
-**Day 442(10 FEB) :** Koko Eating Bananas
+**Day 442(9 FEB) :** Koko Eating Bananas
 
-**Day 443(11 FEB) :** Equalize the Towers
+**Day 443(10 FEB) :** Equalize the Towers
 
-**Day 444(12 FEB) :** Max min Height
+**Day 444(11 FEB) :** Max min Height
 
-**Day 445(13 FEB) :** All numbers with specific difference
+**Day 445(12 FEB) :** All numbers with specific difference
 
-**Day 446(14 FEB) :** The Painter's Partition Problem-II
+**Day 446(13 FEB) :** The Painter's Partition Problem-II
 
-**Day 447(15 FEB) :** Chocolate Distribution Problem
+**Day 447(14 FEB) :** Chocolate Distribution Problem
 
-**Day 448(16 FEB) :** Meeting Rooms
+**Day 448(15 FEB) :** Meeting Rooms
 
-**Day 449(17 FEB) :** Maximum number of overlapping Intervals
+**Day 449(16 FEB) :** Maximum number of overlapping Intervals
 
-**Day 450(18 FEB) :** Count Inversions
+**Day 450(17 FEB) :** Count Inversions
 
-**Day 451(19 FEB) :** Missing Element in Range
+**Day 451(18 FEB) :** Missing Element in Range
 
-**Day 452(20 FEB) :** Form the Largest Number
+**Day 452(19 FEB) :** Form the Largest Number
 
-**Day 453(21 FEB) :** Find H-Index
+**Day 453(20 FEB) :** Find H-Index
 
-**Day 454(22 FEB) :** Count Subarrays with given XOR
+**Day 454(21 FEB) :** Count Subarrays with given XOR
 
-**Day 455(23 FEB) :** Union of Arrays with Duplicates
+**Day 455(22 FEB) :** Union of Arrays with Duplicates
 
-**Day 456(24 FEB) :** Longest Span in two Binary Arrays
+**Day 456(23 FEB) :** Longest Span in two Binary Arrays
 
-**Day 457(25 FEB) :** Longest Subarray with Majority Greater than K
+**Day 457(24 FEB) :** Longest Subarray with Majority Greater than K
 
-**Day 458(26 FEB) :** Isomorphic Strings
+**Day 458(25 FEB) :** Isomorphic Strings
 
-**Day 459(27 FEB) :** Number of submatrix have sum X
+**Day 459(26 FEB) :** Number of submatrix have sum X
 
-**Day 460(28 FEB) :** Find the closest pair from two arrays
+**Day 460(27 FEB) :** Find the closest pair from two arrays
 
-**Day 461(01 MAR) :** Move All Zeroes to End
+**Day 461(28 FEB) :** Move All Zeroes to End
 
-**Day 462(02 MAR) :** Trapping Rain Water
+**Day 462(01 MAR) :** Trapping Rain Water
 
-**Day 463(03 MAR) :** Longest subarray with Atmost two distinct integers
+**Day 463(02 MAR) :** Longest subarray with Atmost two distinct integers
 
-**Day 464(04 MAR) :** Max Xor Subarray of size K
+**Day 464(03 MAR) :** Max Xor Subarray of size K
 
-**Day 465(05 MAR) :** Longest Substring with K Uniques
+**Day 465(04 MAR) :** Longest Substring with K Uniques
 
-**Day 466(06 MAR) :** Smallest window containing all characters
+**Day 466(05 MAR) :** Smallest window containing all characters
 
-**Day 467(07 MAR) :** Dice throw
+**Day 467(06 MAR) :** Dice throw
 
-**Day 468(08 MAR) :** Pythagorean Triplet
+**Day 468(07 MAR) :** Pythagorean Triplet
 
-**Day 469(09 MAR) :** Largest number in one swap
+**Day 469(08 MAR) :** Largest number in one swap
 
-**Day 470(10 MAR) :** Subarrays with First Element Minimum
+**Day 470(09 MAR) :** Subarrays with First Element Minimum
 
-**Day 471(11 MAR) :** Sum of subarray minimums
+**Day 471(10 MAR) :** Sum of subarray minimums
 
-**Day 472(12 MAR) :** Minimum K Consecutive Bit Flips
+**Day 472(11 MAR) :** Minimum K Consecutive Bit Flips
 
-**Day 473(13 MAR) :** Generate IP Addresses
+**Day 473(12 MAR) :** Generate IP Addresses
 
-**Day 474(14 MAR) :** Top View of Binary Tree
+**Day 474(13 MAR) :** Top View of Binary Tree
 
-**Day 475(15 MAR) :** Vertical Tree Traversal
+**Day 475(14 MAR) :** Vertical Tree Traversal
 
-**Day 476(16 MAR) :** K Sum Paths
+**Day 476(15 MAR) :** K Sum Paths
 
-**Day 477(17 MAR) :** Burning Tree
+**Day 477(16 MAR) :** Burning Tree
 
-**Day 478(18 MAR) :** Distribute Candies
+**Day 478(17 MAR) :** Distribute Candies
 
-**Day 479(19 MAR) :** Largest BST
+**Day 479(18 MAR) :** Largest BST
 
-**Day 480(20 MAR) :** Predecessor and Successor
+**Day 480(19 MAR) :** Predecessor and Successor
 
-**Day 481(21 MAR) :** Number of BST From Array
+**Day 481(20 MAR) :** Number of BST From Array
 
-**Day 482(22 MAR) :** Rotten Oranges
+**Day 482(21 MAR) :** Rotten Oranges
 
-**Day 483(23 MAR) :** Length of Longest Cycle in a Graph
+**Day 483(22 MAR) :** Length of Longest Cycle in a Graph
 
-**Day 484(24 MAR) :** Course Schedule I
+**Day 484(23 MAR) :** Course Schedule I
 
-**Day 485(25 MAR) :** Minimum height roots
+**Day 485(24 MAR) :** Minimum height roots
 
-**Day 486(26 MAR) :** Number of Ways to Arrive at Destination
+**Day 486(25 MAR) :** Number of Ways to Arrive at Destination
 
-**Day 487(27 MAR) :** Chocolates Pickup
+**Day 487(26 MAR) :** Chocolates Pickup
 
-**Day 488(28 MAR) :** Articulation Point - II
+**Day 488(27 MAR) :** Articulation Point - II
 
-**Day 489(29 MAR) :** Partitions with Given Difference
+**Day 489(28 MAR) :** Partitions with Given Difference
 
-**Day 490(30 MAR) :** Minimum cost to connect all houses in a city
+**Day 490(29 MAR) :** Minimum cost to connect all houses in a city
 
-**Day 491(31 MAR) :** Buy Stock with Transaction Fee
+**Day 491(30 MAR) :** Buy Stock with Transaction Fee
 
 **Day 492(01 APR) :** Consecutive 1's not allowed
 
@@ -1100,6 +1100,10 @@ Implement Atoi
 **Day 499(08 APR) :** Segregate 0s and 1s
 
 **Day 500(09 APR) :** Intersection of Two Sorted Arrays
+
+**Day 501(10 APR) :** Sorted subsequence of size 3
+
+**Day 502(11 APR) :** Count increasing Subarrays
 
 
 
