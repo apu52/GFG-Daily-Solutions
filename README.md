@@ -1105,6 +1105,8 @@ Implement Atoi
 
 **Day 502(11 APR) :** Count increasing Subarrays
 
+**Day 503(12 APR) :** Toeplitz matrix
+
 
 
 
