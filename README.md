@@ -1107,6 +1107,8 @@ Implement Atoi
 
 **Day 503(12 APR) :** Toeplitz matrix
 
+**Day 504(13 APR) :** Next Smallest Palindrome
+
 
 
 
