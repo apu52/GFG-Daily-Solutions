@@ -1109,6 +1109,8 @@ Implement Atoi
 
 **Day 504(13 APR) :** Next Smallest Palindrome
 
+**Day 505(14 APR) :** Remove Spaces
+
 
 
 
