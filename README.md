@@ -1113,6 +1113,8 @@ Implement Atoi
 
 **Day 506(15 APR) :** URLify a given string
 
+**Day 507(16 APR) :** Implement Atoi
+
 
 
 
