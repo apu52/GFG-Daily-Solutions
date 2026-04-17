@@ -1115,6 +1115,8 @@ Implement Atoi
 
 **Day 507(16 APR) :** Implement Atoi
 
+**Day 508(17 APR) :** Anagram Palindrome
+
 
 
 
