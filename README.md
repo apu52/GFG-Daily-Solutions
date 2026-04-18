@@ -1117,6 +1117,8 @@ Implement Atoi
 
 **Day 508(17 APR) :** Anagram Palindrome
 
+**Day 509(18 APR) :** Flip to Maximize 1s
+
 
 
 
