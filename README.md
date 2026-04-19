@@ -1119,6 +1119,8 @@ Implement Atoi
 
 **Day 509(18 APR) :** Flip to Maximize 1s
 
+**Day 510(19 APR) :** Check for Power
+
 
 
 
