@@ -1121,6 +1121,8 @@ Implement Atoi
 
 **Day 510(19 APR) :** Check for Power
 
+**Day 511(20 APR) :** Count Derangements
+
 
 
 
