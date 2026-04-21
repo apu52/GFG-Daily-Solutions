@@ -1123,6 +1123,8 @@ Implement Atoi
 
 **Day 511(20 APR) :** Count Derangements
 
+**Day 512(21 APR) :** Two water Jug problem
+
 
 
 
