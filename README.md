@@ -1125,6 +1125,8 @@ Implement Atoi
 
 **Day 512(21 APR) :** Two water Jug problem
 
+**Day 513(22 APR) :** Mean of range in array
+
 
 
 
