@@ -1127,6 +1127,8 @@ Implement Atoi
 
 **Day 513(22 APR) :** Mean of range in array
 
+**Day 514(23 APR) :** Two Equal Sum Subarrays
+
 
 
 
