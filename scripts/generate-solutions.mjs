@@ -1,12 +1,13 @@
 import fs from "node:fs";
 import path from "node:path";
-import { execSync } from "node:child_process";
+import { execFileSync } from "node:child_process";
 
 const root = process.cwd();
 const outputPath = path.join(root, "data", "solutions.json");
 const sourceExtensions = new Set([".cpp", ".cc", ".cxx", ".c", ".java", ".py", ".js", ".ts", ".go", ".rs", ".md", ".mdx"]);
 const ignoredDirs = new Set([".git", ".next", "node_modules", "app", "components", "lib", "data", "scripts", "public", ".github"]);
 const ignoredFiles = new Set([
+  "CONTRIBUTING.md",
   "README.md",
   "next-env.d.ts",
   "next.config.mjs",
@@ -17,6 +18,7 @@ const ignoredFiles = new Set([
 const repoUrl = process.env.NEXT_PUBLIC_GITHUB_REPO_URL || getRemoteUrl() || "https://github.com/apu52/GFG-Daily-Solutions";
 const branch = process.env.NEXT_PUBLIC_GITHUB_BRANCH || getDefaultBranch();
 const seenSlugs = new Map();
+const previousSolutions = readPreviousSolutions();
 
 fs.mkdirSync(path.dirname(outputPath), { recursive: true });
 
@@ -45,8 +47,9 @@ function buildSolution(absolutePath) {
   const rawCode = fs.readFileSync(absolutePath, "utf8");
   const { frontmatter, code } = parseFrontmatter(rawCode);
   const parsed = parseFileName(path.basename(absolutePath, ext));
+  const previous = previousSolutions.get(filePath);
   const title = frontmatter.title || parsed.title;
-  const date = frontmatter.date || parsed.date || getFirstAddedDate(filePath) || getLastCommitDate(filePath) || toDateKey(fs.statSync(absolutePath).mtime);
+  const date = frontmatter.date || parsed.date || getFirstAddedDate(filePath) || getLastCommitDate(filePath) || previous?.date || toDateKey(fs.statSync(absolutePath).mtime);
   const language = frontmatter.language || parsed.language || languageFromExtension(ext);
   const platform = frontmatter.platform || inferPlatform(title, filePath);
   const difficulty = normalizeDifficulty(frontmatter.difficulty);
@@ -187,11 +190,25 @@ function toDateKey(date) {
   return date.toISOString().slice(0, 10);
 }
 
+function readPreviousSolutions() {
+  try {
+    const solutions = JSON.parse(fs.readFileSync(outputPath, "utf8"));
+    return new Map(solutions.map((solution) => [solution.filePath, solution]));
+  } catch {
+    return new Map();
+  }
+}
+
+function git(args) {
+  return execFileSync("git", args, { encoding: "utf8" }).trim() || undefined;
+}
+
 function getFirstAddedDate(filePath) {
   try {
-    return execSync(`git log --all --diff-filter=A --follow --format=%ad --date=short -- "${filePath.replace(/"/g, '\\"')}"`, {
-      encoding: "utf8"
-    }).trim().split(/\r?\n/).filter(Boolean).at(-1);
+    return git(["log", "--all", "--diff-filter=A", "--follow", "--format=%ad", "--date=short", "--", filePath])
+      ?.split(/\r?\n/)
+      .filter(Boolean)
+      .at(-1);
   } catch {
     return undefined;
   }
@@ -199,9 +216,7 @@ function getFirstAddedDate(filePath) {
 
 function getLastCommitDate(filePath) {
   try {
-    return execSync(`git log --all -1 --format=%ad --date=short -- "${filePath.replace(/"/g, '\\"')}"`, {
-      encoding: "utf8"
-    }).trim() || undefined;
+    return git(["log", "--all", "-1", "--format=%ad", "--date=short", "--", filePath]);
   } catch {
     return undefined;
   }
@@ -209,7 +224,7 @@ function getLastCommitDate(filePath) {
 
 function getRemoteUrl() {
   try {
-    const remote = execSync("git remote get-url origin", { encoding: "utf8" }).trim();
+    const remote = git(["remote", "get-url", "origin"]);
     return remote.replace(/^git@github.com:/, "https://github.com/").replace(/\.git$/, "");
   } catch {
     return undefined;
@@ -218,7 +233,7 @@ function getRemoteUrl() {
 
 function getDefaultBranch() {
   try {
-    return execSync("git rev-parse --abbrev-ref HEAD", { encoding: "utf8" }).trim() || "main";
+    return git(["rev-parse", "--abbrev-ref", "HEAD"]) || "main";
   } catch {
     return "main";
   }
