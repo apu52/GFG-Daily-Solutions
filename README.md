@@ -4,10 +4,10 @@ A production-ready Next.js app that turns this GitHub repository of GEEKDEVSS an
 
 ## Features
 
-- Dashboard with today's solution, falling back to the latest available entry
+- Animated home hero with today's/latest solution and recent solution orbit
 - Searchable archive with platform, language, and difficulty filters
 - Date explorer for browsing solutions by day
-- Detail pages with syntax-highlighted code preview, copy-to-clipboard, and GitHub source link
+- Detail pages with syntax-highlighted GitHub-style code preview, copy-to-clipboard, and GitHub source link
 - Light and dark themes with green-accented polished UI
 - Repository-driven `data/solutions.json` manifest generated from solution files
 - Vercel-compatible Next.js App Router setup
@@ -17,17 +17,21 @@ A production-ready Next.js app that turns this GitHub repository of GEEKDEVSS an
 ```txt
 app/
   calendar/page.tsx
+  leetcode/page.tsx
   solutions/page.tsx
   solutions/[slug]/page.tsx
   globals.css
   layout.tsx
   page.tsx
 components/
+  BackButton.tsx
   Badge.tsx
   CalendarExplorer.tsx
   CodeBlock.tsx
   CopyButton.tsx
+  HeroWorld.tsx
   SearchLibrary.tsx
+  SiteNav.tsx
   SolutionCard.tsx
   ThemeToggle.tsx
 data/
@@ -136,6 +140,8 @@ NEXT_PUBLIC_GITHUB_BRANCH=main
 
 The build command runs `scripts/generate-solutions.mjs` before `next build`, so Vercel always builds with the latest repository contents.
 
-## Automatic Manifest Updates
+## Automatic Updates
 
-`.github/workflows/update-solutions.yml` regenerates `data/solutions.json` when solution files are pushed to `main`. Vercel can also rebuild directly from every push, so the site updates without manual UI edits.
+When a new solution file is pushed to `main`, Vercel rebuilds the app and regenerates `data/solutions.json`. The home orbit, today's problem card, recent section, calendar, search library, and individual solution pages update from that generated manifest.
+
+The `.github/workflows/update-solutions.yml` workflow can also regenerate and commit `data/solutions.json` when solution files are pushed to `main`.
