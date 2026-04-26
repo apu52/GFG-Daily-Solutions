@@ -46,10 +46,11 @@ function buildSolution(absolutePath) {
   const ext = path.extname(absolutePath).toLowerCase();
   const rawCode = fs.readFileSync(absolutePath, "utf8");
   const { frontmatter, code } = parseFrontmatter(rawCode);
+  const normalizedCode = code.replace(/\r\n/g, "\n");
   const parsed = parseFileName(path.basename(absolutePath, ext));
   const previous = previousSolutions.get(filePath);
   const title = frontmatter.title || parsed.title;
-  const date = frontmatter.date || parsed.date || getFirstAddedDate(filePath) || getLastCommitDate(filePath) || previous?.date || toDateKey(fs.statSync(absolutePath).mtime);
+  const date = frontmatter.date || parsed.date || previous?.date || getFirstAddedDate(filePath) || getLastCommitDate(filePath) || toDateKey(fs.statSync(absolutePath).mtime);
   const language = frontmatter.language || parsed.language || languageFromExtension(ext);
   const platform = frontmatter.platform || inferPlatform(title, filePath);
   const difficulty = normalizeDifficulty(frontmatter.difficulty);
@@ -68,7 +69,7 @@ function buildSolution(absolutePath) {
     githubUrl: `${repoUrl.replace(/\/$/, "")}/blob/${branch}/${encodeURIComponentPath(filePath)}`,
     ...(problemNumber ? { problemNumber } : {}),
     summary: frontmatter.summary || buildSummary(title, platform, language),
-    code: code.trimEnd()
+    code: normalizedCode.trimEnd()
   };
 }
 

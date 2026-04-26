@@ -3082,7 +3082,7 @@
     "filePath": "Max sum_in_the_configuration_6-6-24.cpp",
     "githubUrl": "https://github.com/apu52/GFG-Daily-Solutions/blob/main/Max%20sum_in_the_configuration_6-6-24.cpp",
     "summary": "C++ solution for Max Sum In The Configuration 6 6 24 from GEEKDEVSS.",
-    "code": "class Solution {\r\n  public:\r\n    long long max_sum(int a[], int n) {\r\n        // Your code here\r\n        long long sum=0,calc=0;\r\n        for(int i=0;i<n;i++){\r\n            sum+=(long)a[i];\r\n            calc+=(long)a[i]*i;\r\n        }\r\n        long long maxval=calc;\r\n        for (int i = 0; i < n; i++) {\r\n            calc = calc + (sum - n*(long)a[n-1-i] );            \r\n            maxval = max(calc, maxval);\r\n        }\r\n        return maxval;\r\n    }\r\n};"
+    "code": "class Solution {\n  public:\n    long long max_sum(int a[], int n) {\n        // Your code here\n        long long sum=0,calc=0;\n        for(int i=0;i<n;i++){\n            sum+=(long)a[i];\n            calc+=(long)a[i]*i;\n        }\n        long long maxval=calc;\n        for (int i = 0; i < n; i++) {\n            calc = calc + (sum - n*(long)a[n-1-i] );            \n            maxval = max(calc, maxval);\n        }\n        return maxval;\n    }\n};"
   },
   {
     "slug": "2026-01-06-max-xor-subarray-of-size-k-new-c",
