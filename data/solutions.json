@@ -805,6 +805,18 @@
     "code": "class Solution {\n\n  public:\n    int maxWater(vector<int> &arr) {\n        // code here\n        int n=arr.size();\n        int ans=0;\n        \n        int low=0,high=n-1;\n        \n        while(low<high){\n            int area=(high-low) * (min(arr[low],arr[high]));\n            ans=max(ans,area);\n            \n            if(arr[low]<arr[high])\n                low++;\n            else    \n                high--;\n        }\n        \n        return ans;\n    }\n};"
   },
   {
+    "slug": "2026-04-26-contributing-markdown",
+    "title": "CONTRIBUTING",
+    "date": "2026-04-26",
+    "platform": "GEEKDEVSS",
+    "language": "Markdown",
+    "extension": "md",
+    "filePath": "CONTRIBUTING.md",
+    "githubUrl": "https://github.com/apu52/GFG-Daily-Solutions/blob/main/CONTRIBUTING.md",
+    "summary": "Markdown solution for CONTRIBUTING from GEEKDEVSS.",
+    "code": "# Contributing\n\nThanks for helping improve the GEEKDEVSS solution library. This repo contains solution files and a Next.js website that generates the public archive from those files.\n\n## Add a Solution\n\nAdd your solution file in the repository root using a clear problem name and the correct language extension.\n\nExamples:\n\n```txt\nTwo Sum.cpp\nAdd 1 to a Linked List Number.cpp\nAccount Merge.py\n```\n\nSupported examples include `.cpp`, `.java`, `.py`, `.js`, `.ts`, `.go`, and `.rs`.\n\nThe website generator reads solution files and creates `data/solutions.json`. That generated data powers the home orbit, today's problem, recent section, calendar, search page, and solution detail pages.\n\n## Optional Metadata\n\nIf the generated title/date/platform needs to be customized, add frontmatter at the top of the solution file:\n\n```txt\n---\ntitle: Two Sum\ndate: 2026-04-26\nplatform: LeetCode\ndifficulty: Easy\nlanguage: C++\nproblemNumber: 1\nsummary: Hash map based linear-time solution.\n---\n```\n\nThen place the solution code below the frontmatter.\n\n## Force a Date\n\nNormally, the calendar date is detected from Git history. To force a date manually, use this filename format:\n\n```txt\nYYYY-MM-DD-problem-name-language.ext\n```\n\nExample:\n\n```txt\n2026-04-26-common-in-3-sorted-arrays-cpp.cpp\n```\n\n## Run Locally\n\nInstall dependencies:\n\n```bash\nnpm install\n```\n\nRegenerate the solution manifest:\n\n```bash\nnpm run generate:solutions\n```\n\nStart the app:\n\n```bash\nnpm run dev\n```\n\nOpen:\n\n```txt\nhttp://localhost:3000\n```\n\n## Before Opening a Pull Request\n\nRun these checks:\n\n```bash\nnpm run lint\nnpm run build\n```\n\nMake sure:\n\n- The solution file has a clear name.\n- The code is complete and readable.\n- The generated website pages still build successfully.\n- You do not remove or rename unrelated solution files.\n- You do not commit unrelated formatting or generated noise.\n\n## Pull Request Notes\n\nIn your PR description, mention:\n\n- The problem name.\n- The language used.\n- The platform, if relevant.\n- Any special notes about the approach.\n\nAfter a PR is merged into `main`, Vercel rebuilds the website and updates the archive automatically."
+  },
+  {
     "slug": "2026-04-26-convert-array-into-zig-zag-fashion-c",
     "title": "Convert Array Into Zig Zag Fashion",
     "date": "2026-04-26",
