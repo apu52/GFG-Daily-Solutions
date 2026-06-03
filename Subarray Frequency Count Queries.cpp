@@ -1,0 +1,45 @@
+class Solution {
+  public:
+  int lowerBound(vector<int>& v, int target) {
+    int low = 0, high = v.size();
+
+    while (low < high) {
+        int mid = low + (high - low) / 2;
+
+        if (v[mid] < target)
+            low = mid + 1;
+        else
+            high = mid;
+    }
+
+    return low; // first index where v[index] >= target
+}
+
+int upperBound(vector<int>& v, int target) {
+    int low = 0, high = v.size();
+
+    while (low < high) {
+        int mid = low + (high - low) / 2;
+
+        if (v[mid] <= target)
+            low = mid + 1;
+        else
+            high = mid;
+    }
+
+    return low; // first index where v[index] > target
+}
+    vector<int> freqInRange(vector<int>& arr, vector<vector<int>>& queries) {
+        // code here
+        unordered_map<int,set<int>>mp;
+        vector<int>ans;
+        for(int i=0;i<arr.size();i++)mp[arr[i]].insert(i);
+        
+        for(int i=0;i<queries.size();i++){
+            auto low=mp[queries[i][2]].lower_bound(queries[i][0]);
+            auto high=mp[queries[i][2]].upper_bound(queries[i][1]);
+            ans.push_back(distance(low,high));
+        }
+        return ans;
+    }
+};
